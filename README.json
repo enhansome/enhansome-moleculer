@@ -100,7 +100,7 @@
             "last_commit": "2026-07-20T16:29:19Z",
             "owner": "msgbyte",
             "repo": "tailchat",
-            "stars": 3607
+            "stars": 3608
           }
         },
         {
@@ -1719,7 +1719,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T03:56:48.847Z",
+    "last_updated": "2026-08-14T02:45:37.650Z",
     "original_repository": "moleculerjs/awesome-moleculer",
     "original_repository_sha": "f44026c323dab3514ada6db1cf6533018dda4de0",
     "enhanced_repository": "enhansome/enhansome-moleculer",
