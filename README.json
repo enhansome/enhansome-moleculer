@@ -1641,7 +1641,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T00:43:10Z",
+            "last_commit": "2026-08-16T22:43:16Z",
             "owner": "spailybot",
             "repo": "moleculer-auto-openapi",
             "stars": 4
@@ -1719,7 +1719,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T01:56:43.299Z",
+    "last_updated": "2026-08-17T01:54:28.153Z",
     "original_repository": "moleculerjs/awesome-moleculer",
     "original_repository_sha": "f44026c323dab3514ada6db1cf6533018dda4de0",
     "enhanced_repository": "enhansome/enhansome-moleculer",
