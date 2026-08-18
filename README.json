@@ -100,7 +100,7 @@
             "last_commit": "2026-07-20T16:29:19Z",
             "owner": "msgbyte",
             "repo": "tailchat",
-            "stars": 3609
+            "stars": 3610
           }
         },
         {
@@ -1641,7 +1641,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T22:43:16Z",
+            "last_commit": "2026-08-17T23:21:01Z",
             "owner": "spailybot",
             "repo": "moleculer-auto-openapi",
             "stars": 4
@@ -1719,7 +1719,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T01:54:28.153Z",
+    "last_updated": "2026-08-18T01:50:23.438Z",
     "original_repository": "moleculerjs/awesome-moleculer",
     "original_repository_sha": "f44026c323dab3514ada6db1cf6533018dda4de0",
     "enhanced_repository": "enhansome/enhansome-moleculer",
