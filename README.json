@@ -1,1497 +1,1596 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Core Cheatsheets",
+              "description": "Cheatsheet for Moleculer's core functionalities.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 121224260,
+                "language": "JavaScript",
+                "last_commit": "2018-03-10T18:42:09Z",
+                "owner": "moleculerjs",
+                "repo": "moleculer-cheatsheets",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Web Gateway Cheatsheets",
+              "description": "Cheatsheet for official gateway",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 121224260,
+                "language": "JavaScript",
+                "last_commit": "2018-03-10T18:42:09Z",
+                "owner": "moleculerjs",
+                "repo": "moleculer-cheatsheets",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DB Cheatsheets",
+              "description": "Cheatsheet for official DB adapters",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 121224260,
+                "language": "JavaScript",
+                "last_commit": "2018-03-10T18:42:09Z",
+                "owner": "moleculerjs",
+                "repo": "moleculer-cheatsheets",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "REPL Cheatsheets",
+              "description": "Cheatsheet for official RELP tool",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 121224260,
+                "language": "JavaScript",
+                "last_commit": "2018-03-10T18:42:09Z",
+                "owner": "moleculerjs",
+                "repo": "moleculer-cheatsheets",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CLI Cheatsheets",
+              "description": "Cheatsheet for Moleculer's command-line interface (CLI)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 121224260,
+                "language": "JavaScript",
+                "last_commit": "2018-03-10T18:42:09Z",
+                "owner": "moleculerjs",
+                "repo": "moleculer-cheatsheets",
+                "stars": 27
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Cheatsheets"
+        }
+      ],
       "title": "Resources"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Core Cheatsheets",
-          "description": "Cheatsheet for Moleculer's core functionalities.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-03-10T18:42:09Z",
-            "owner": "moleculerjs",
-            "repo": "moleculer-cheatsheets",
-            "stars": 27
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Web Gateway Cheatsheets",
-          "description": "Cheatsheet for official gateway",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-03-10T18:42:09Z",
-            "owner": "moleculerjs",
-            "repo": "moleculer-cheatsheets",
-            "stars": 27
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DB Cheatsheets",
-          "description": "Cheatsheet for official DB adapters",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-03-10T18:42:09Z",
-            "owner": "moleculerjs",
-            "repo": "moleculer-cheatsheets",
-            "stars": 27
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "REPL Cheatsheets",
-          "description": "Cheatsheet for official RELP tool",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-03-10T18:42:09Z",
-            "owner": "moleculerjs",
-            "repo": "moleculer-cheatsheets",
-            "stars": 27
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CLI Cheatsheets",
-          "description": "Cheatsheet for Moleculer's command-line interface (CLI)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-03-10T18:42:09Z",
-            "owner": "moleculerjs",
-            "repo": "moleculer-cheatsheets",
-            "stars": 27
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Tailchat",
+              "description": "A Open Source and pluggable IM application which build with MiniStart and Moleculer. Inspired by Discord.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 377687390,
+                "language": "TypeScript",
+                "last_commit": "2026-07-20T16:29:19Z",
+                "owner": "msgbyte",
+                "repo": "tailchat",
+                "stars": 3613
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "moleculerjs-boilerplate",
+              "description": "A well-structured Moleculer JS Boilerplate with Typescript, CLI, Service Helpers, Swagger, Jest support and everything you'll ever need to deploy rock solid projects.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 192910038,
+                "language": "TypeScript",
+                "last_commit": "2023-01-05T20:48:53Z",
+                "owner": "pankod",
+                "repo": "moleculerjs-boilerplate",
+                "stars": 197
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Conduit",
+              "description": "Moleculer + Moleculer Web + Moleculer-DB + MongoDB + JWT + Redis Cacher + Docker",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 82822660,
+                "language": "HTML",
+                "last_commit": "2021-12-02T20:44:49Z",
+                "owner": "moleculerjs",
+                "repo": "moleculer-examples",
+                "stars": 161
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Blog",
+              "description": "Moleculer + ExpressJS + Pug + Moleculer-DB + Mongoose + NATS + Redis Cacher + Traefik",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 82822660,
+                "language": "HTML",
+                "last_commit": "2021-12-02T20:44:49Z",
+                "owner": "moleculerjs",
+                "repo": "moleculer-examples",
+                "stars": 161
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kantab - A Kanban board application",
+              "description": "Moleculer + Moleculer Web + Full authentication + ACL/RBAC + VueJS + VueX + Vue-router + Much much more",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 144414759,
+                "language": "JavaScript",
+                "last_commit": "2022-09-04T16:19:28Z",
+                "owner": "icebob",
+                "repo": "kantab",
+                "stars": 142
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "StretchShop",
+              "description": "Fast & scalable e-business REST API backend based on Moleculer framework, which makes it easy to run as monolithic or microservices application.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 194494832,
+                "language": "JavaScript",
+                "last_commit": "2026-08-15T14:03:23Z",
+                "owner": "StretchShop",
+                "repo": "StretchShop",
+                "stars": 76
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Catalyst",
+              "description": "NodeJS Microservices Boilerplate - Typescript NodeJS Microservices Boilerplate with Generator CLI - Moleculer, GraphQL, REST, OAuth2, Jaeger, Grafana, Prometheus, Ory Hydra, Ory Keto w/ Access Control middleware, Moleculer-DB GraphQL mixin, Pug, Redis, sibling client repo (login, persistance layer, react-native-web, ios, android)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 210376655,
+                "language": "TypeScript",
+                "last_commit": "2023-01-05T08:59:11Z",
+                "owner": "derekbar90",
+                "repo": "catalyst",
+                "stars": 62
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nestjs-moleculer",
+              "description": "Moleculer Module For Nestjs Framework",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 157623616,
+                "language": "TypeScript",
+                "last_commit": "2023-03-15T04:39:07Z",
+                "owner": "jiangzhuo",
+                "repo": "nestjs-moleculer",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cards Against Formality",
+              "description": "Cards Against Formality aims to be a web based clone of the popular card game \"Cards against humanity\". TypeScript + Kubernetes + Skaffold + authorization + scaled socket connections",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 248204873,
+                "language": "TypeScript",
+                "last_commit": "2026-08-07T01:32:14Z",
+                "owner": "heynatefox",
+                "repo": "cards-against-formality-services",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "moleculer-nextjs",
+              "description": "Server-Side Rendering with Moleculer",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 130420443,
+                "language": "JavaScript",
+                "last_commit": "2018-06-21T14:21:22Z",
+                "owner": "davidroman0O",
+                "repo": "moleculer-nextjs",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "moleculer-mysql-template",
+              "description": "Moleculer template for creating a secure web api, with a remote MySQL database, and a default account management.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 123781457,
+                "language": "JavaScript",
+                "last_commit": "2018-04-29T11:54:25Z",
+                "owner": "AGenson",
+                "repo": "moleculer-mysql-template",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "moleculer-exploration",
+              "description": "Simple microservices communicating via MoleculerJS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 143444337,
+                "language": "JavaScript",
+                "last_commit": "2018-08-03T16:02:41Z",
+                "owner": "simsieg",
+                "repo": "Moleculer-exploration",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Moleculer + Babel Example Starter",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 146107995,
+                "language": "JavaScript",
+                "last_commit": "2018-08-27T01:52:41Z",
+                "owner": "tinchoz49",
+                "repo": "moleculer-babel-example",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "moleculer-docker-development",
+              "description": "Simple development enviroment for moleculer with Docker",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 256884054,
+                "language": null,
+                "last_commit": "2018-11-23T20:02:32Z",
+                "owner": "funcode50",
+                "repo": "moleculer-docker-development",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Repositories"
         }
       ],
-      "title": "Cheatsheets"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Examples"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Tailchat",
-          "description": "A Open Source and pluggable IM application which build with MiniStart and Moleculer. Inspired by Discord.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-20T16:29:19Z",
-            "owner": "msgbyte",
-            "repo": "tailchat",
-            "stars": 3613
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "moleculerjs-boilerplate",
-          "description": "A well-structured Moleculer JS Boilerplate with Typescript, CLI, Service Helpers, Swagger, Jest support and everything you'll ever need to deploy rock solid projects.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-01-05T20:48:53Z",
-            "owner": "pankod",
-            "repo": "moleculerjs-boilerplate",
-            "stars": 197
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Conduit",
-          "description": "Moleculer + Moleculer Web + Moleculer-DB + MongoDB + JWT + Redis Cacher + Docker",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2021-12-02T20:44:49Z",
-            "owner": "moleculerjs",
-            "repo": "moleculer-examples",
-            "stars": 161
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Blog",
-          "description": "Moleculer + ExpressJS + Pug + Moleculer-DB + Mongoose + NATS + Redis Cacher + Traefik",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2021-12-02T20:44:49Z",
-            "owner": "moleculerjs",
-            "repo": "moleculer-examples",
-            "stars": 161
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Kantab - A Kanban board application",
-          "description": "Moleculer + Moleculer Web + Full authentication + ACL/RBAC + VueJS + VueX + Vue-router + Much much more",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-09-04T16:19:28Z",
-            "owner": "icebob",
-            "repo": "kantab",
-            "stars": 142
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "StretchShop",
-          "description": "Fast & scalable e-business REST API backend based on Moleculer framework, which makes it easy to run as monolithic or microservices application.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-15T14:03:23Z",
-            "owner": "StretchShop",
-            "repo": "StretchShop",
-            "stars": 76
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Catalyst",
-          "description": "NodeJS Microservices Boilerplate - Typescript NodeJS Microservices Boilerplate with Generator CLI - Moleculer, GraphQL, REST, OAuth2, Jaeger, Grafana, Prometheus, Ory Hydra, Ory Keto w/ Access Control middleware, Moleculer-DB GraphQL mixin, Pug, Redis, sibling client repo (login, persistance layer, react-native-web, ios, android)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-01-05T08:59:11Z",
-            "owner": "derekbar90",
-            "repo": "catalyst",
-            "stars": 62
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nestjs-moleculer",
-          "description": "Moleculer Module For Nestjs Framework",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2023-03-15T04:39:07Z",
-            "owner": "jiangzhuo",
-            "repo": "nestjs-moleculer",
-            "stars": 30
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Cards Against Formality",
-          "description": "Cards Against Formality aims to be a web based clone of the popular card game \"Cards against humanity\". TypeScript + Kubernetes + Skaffold + authorization + scaled socket connections",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-07T01:32:14Z",
-            "owner": "heynatefox",
-            "repo": "cards-against-formality-services",
-            "stars": 27
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "moleculer-nextjs",
-          "description": "Server-Side Rendering with Moleculer",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-06-21T14:21:22Z",
-            "owner": "davidroman0O",
-            "repo": "moleculer-nextjs",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "moleculer-mysql-template",
-          "description": "Moleculer template for creating a secure web api, with a remote MySQL database, and a default account management.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-04-29T11:54:25Z",
-            "owner": "AGenson",
-            "repo": "moleculer-mysql-template",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "moleculer-exploration",
-          "description": "Simple microservices communicating via MoleculerJS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-08-03T16:02:41Z",
-            "owner": "simsieg",
-            "repo": "Moleculer-exploration",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Moleculer + Babel Example Starter",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "moleculer-template-project",
+              "description": "Project template for Javascript project.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 123713337,
+                "language": "JavaScript",
+                "last_commit": "2026-03-29T14:11:20Z",
+                "owner": "moleculerjs",
+                "repo": "moleculer-template-project",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "moleculer-template-nano",
+              "description": "Minimal project template for Javascript project.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 103279624,
+                "language": "JavaScript",
+                "last_commit": "2026-03-30T12:58:49Z",
+                "owner": "moleculerjs",
+                "repo": "moleculer-template-nano",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "moleculer-template-addon",
+              "description": "Addon template for moleculer-addons",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 92192960,
+                "language": "JavaScript",
+                "last_commit": "2018-03-04T17:52:55Z",
+                "owner": "moleculerjs",
+                "repo": "moleculer-template-addon",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "moleculer-template-module",
+              "description": "Simple module template for moleculer-cli. Use it if you want to create a module for Moleculer",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 91082966,
+                "language": "JavaScript",
+                "last_commit": "2026-03-30T12:51:13Z",
+                "owner": "moleculerjs",
+                "repo": "moleculer-template-module",
+                "stars": 2
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-08-27T01:52:41Z",
-            "owner": "tinchoz49",
-            "repo": "moleculer-babel-example",
-            "stars": 3
-          }
+          "node_type": "group",
+          "title": "Javascript"
         },
         {
-          "node_type": "item",
-          "title": "moleculer-docker-development",
-          "description": "Simple development enviroment for moleculer with Docker",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2018-11-23T20:02:32Z",
-            "owner": "funcode50",
-            "repo": "moleculer-docker-development",
-            "stars": 0
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "moleculer-template-project-typescript",
+              "description": "Project template for Typescript project.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 146358400,
+                "language": "TypeScript",
+                "last_commit": "2026-03-29T15:07:17Z",
+                "owner": "moleculerjs",
+                "repo": "moleculer-template-project-typescript",
+                "stars": 135
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "moleculer-template-project-ts-swagger",
+              "description": "Starter template for moleculer with swagger",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 340147295,
+                "language": "TypeScript",
+                "last_commit": "2024-12-19T19:05:29Z",
+                "owner": "ourparentcenter",
+                "repo": "moleculer-template-project-ts-swagger",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "moleculer-template-nano-typescript",
+              "description": "Minimal project template for Typescript project.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 147259694,
+                "language": "TypeScript",
+                "last_commit": "2018-12-07T08:14:37Z",
+                "owner": "moleculerjs",
+                "repo": "moleculer-template-nano-typescript",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "moleculer-template-project-ts",
+              "description": "Project template for typescript including decorators and more",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 265503078,
+                "language": "TypeScript",
+                "last_commit": "2023-11-06T05:50:12Z",
+                "owner": "d0whc3r",
+                "repo": "moleculer-template-project-ts",
+                "stars": 7
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Typescript"
         }
       ],
-      "title": "Repositories"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Templates"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "moleculer-template-project",
-          "description": "Project template for Javascript project.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-03-29T14:11:20Z",
-            "owner": "moleculerjs",
-            "repo": "moleculer-template-project",
-            "stars": 22
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "moleculer-web",
+              "description": "Official API Gateway service.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 90408889,
+                "language": "JavaScript",
+                "last_commit": "2026-03-28T18:07:02Z",
+                "owner": "moleculerjs",
+                "repo": "moleculer-web",
+                "stars": 302
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "moleculer-io",
+              "description": "Socket.IO-based API gateway mixin",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 138617881,
+                "language": "JavaScript",
+                "last_commit": "2026-03-29T10:51:40Z",
+                "owner": "moleculerjs",
+                "repo": "moleculer-io",
+                "stars": 100
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "moleculer-apollo-server",
+              "description": "Apollo GraphQL server for Moleculer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 158609706,
+                "language": "JavaScript",
+                "last_commit": "2026-03-28T20:30:44Z",
+                "owner": "moleculerjs",
+                "repo": "moleculer-apollo-server",
+                "stars": 99
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "moleculer-grpc-api",
+              "description": "gRPC server for Moleculer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 263500532,
+                "language": "JavaScript",
+                "last_commit": "2023-10-25T18:23:45Z",
+                "owner": "brunonunes",
+                "repo": "moleculer-grpc-api",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "moleculer-sc",
+              "description": "API Gateway using SocketCluster",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 101757293,
+                "language": "JavaScript",
+                "last_commit": "2018-06-26T13:20:53Z",
+                "owner": "tiaod",
+                "repo": "moleculer-sc",
+                "stars": 20
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hapi-moleculer",
+              "description": "Hapi plugin for the Moleculer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 135080670,
+                "language": "JavaScript",
+                "last_commit": "2018-08-21T18:06:48Z",
+                "owner": "felipegcampos",
+                "repo": "hapi-moleculer",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "moleculer-socketio",
+              "description": "Manage Socket.IO events like actions in services",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 130420454,
+                "language": "JavaScript",
+                "last_commit": "2018-04-30T22:24:55Z",
+                "owner": "davidroman0O",
+                "repo": "moleculer-socketio",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "moleculer-web-uws",
+              "description": "A fast API gateway based on uWebSockets.js",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 382171468,
+                "language": "JavaScript",
+                "last_commit": "2021-09-11T15:40:10Z",
+                "owner": "jimmielovell",
+                "repo": "moleculer-web-uws",
+                "stars": 12
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Gateway"
         },
         {
-          "node_type": "item",
-          "title": "moleculer-template-nano",
-          "description": "Minimal project template for Javascript project.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-03-30T12:58:49Z",
-            "owner": "moleculerjs",
-            "repo": "moleculer-template-nano",
-            "stars": 7
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "moleculer-db",
+              "description": "A NeDB-based service to persist your data",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 110460803,
+                "language": "JavaScript",
+                "last_commit": "2026-03-28T20:13:41Z",
+                "owner": "moleculerjs",
+                "repo": "moleculer-db",
+                "stars": 156
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "moleculer-db-adapter-mongo",
+              "description": "A MongoDB-based service to persist your data",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 110460803,
+                "language": "JavaScript",
+                "last_commit": "2026-03-28T20:13:41Z",
+                "owner": "moleculerjs",
+                "repo": "moleculer-db",
+                "stars": 156
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "moleculer-db-adapter-mongoose",
+              "description": "A Mongoose-based service to persist your data",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 110460803,
+                "language": "JavaScript",
+                "last_commit": "2026-03-28T20:13:41Z",
+                "owner": "moleculerjs",
+                "repo": "moleculer-db",
+                "stars": 156
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "moleculer-db-adapter-sequelize",
+              "description": "A Sequelize-based service to persist your data",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 110460803,
+                "language": "JavaScript",
+                "last_commit": "2026-03-28T20:13:41Z",
+                "owner": "moleculerjs",
+                "repo": "moleculer-db",
+                "stars": 156
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "moleculer-db-adapter-couchdb-nano",
+              "description": "A CouchDB adapter for Moleculer using nano.js",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 110460803,
+                "language": "JavaScript",
+                "last_commit": "2026-03-28T20:13:41Z",
+                "owner": "moleculerjs",
+                "repo": "moleculer-db",
+                "stars": 156
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@moleculer/database",
+              "description": "Advanced Database Access Service for Moleculer microservices framework with MongoDB adapter and Knex adapter for SQL.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 293814720,
+                "language": "JavaScript",
+                "last_commit": "2026-08-01T01:25:07Z",
+                "owner": "moleculerjs",
+                "repo": "database",
+                "stars": 33
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "moleculer-db-adapter-typeorm",
+              "description": "A TypeORM-based service to persist your data",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 157978785,
+                "language": "TypeScript",
+                "last_commit": "2021-03-24T17:21:54Z",
+                "owner": "moleculerjs",
+                "repo": "moleculer-db-adapter-typeorm",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "moleculer-gundb",
+              "description": "A GunDB mixins for Moleculer DB service.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 159519470,
+                "language": "TypeScript",
+                "last_commit": "2018-12-05T14:30:26Z",
+                "owner": "smart-matrix",
+                "repo": "moleculer-gundb",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "moleculer-db-adapter-rethinkdb",
+              "description": "A RethinkDB Moleculer service mixin.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 166676243,
+                "language": "JavaScript",
+                "last_commit": "2023-10-10T06:44:06Z",
+                "owner": "cantecim",
+                "repo": "moleculer-db-adapter-rethinkdb",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "moleculer-db-adapter-prisma",
+              "description": "SQL adapter for Moleculer DB service with Prisma.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 582950985,
+                "language": "JavaScript",
+                "last_commit": "2023-01-12T08:26:28Z",
+                "owner": "noluckjustskill",
+                "repo": "moleculer-db-adapter-prisma",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "moleculer-db-adapter-dynamodb",
+              "description": "A DynamoDB adapter for Moleculer DB service",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 159338552,
+                "language": "JavaScript",
+                "last_commit": "2023-04-25T00:11:48Z",
+                "owner": "katsanva",
+                "repo": "moleculer-db-adapter-dynamodb",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "moleculer-db-adapter-macrometa",
+              "description": "MacroMeta adapter for Moleculer DB service.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 215877233,
+                "language": "JavaScript",
+                "last_commit": "2023-02-06T18:24:47Z",
+                "owner": "moleculerjs",
+                "repo": "moleculer-db-adapter-macrometa",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "moleculer-db-adapter-scylla",
+              "description": "A scyllaDb adapter for Moleculer using express-cassandra.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 844479699,
+                "language": "JavaScript",
+                "last_commit": "2025-12-17T12:53:17Z",
+                "owner": "azita-abdollahi",
+                "repo": "moleculer-db-adapter-scylla",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "moleculer-db-adapter-orientdb",
+              "description": "Moleculer orientDB database adapter.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 208402263,
+                "language": "TypeScript",
+                "last_commit": "2020-05-04T07:55:48Z",
+                "owner": "saeedtabrizi",
+                "repo": "moleculer-db-adapter-orientdb",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Databases and Stores"
         },
         {
-          "node_type": "item",
-          "title": "moleculer-template-addon",
-          "description": "Addon template for moleculer-addons",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-03-04T17:52:55Z",
-            "owner": "moleculerjs",
-            "repo": "moleculer-template-addon",
-            "stars": 2
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "moleculer-sentry",
+              "description": "Sentry-based error logging",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 179510353,
+                "language": "JavaScript",
+                "last_commit": "2026-01-21T23:41:42Z",
+                "owner": "LuxChanLu",
+                "repo": "moleculer-sentry",
+                "stars": 11
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Metrics and Tracing"
         },
         {
-          "node_type": "item",
-          "title": "moleculer-template-module",
-          "description": "Simple module template for moleculer-cli. Use it if you want to create a module for Moleculer",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-03-30T12:51:13Z",
-            "owner": "moleculerjs",
-            "repo": "moleculer-template-module",
-            "stars": 2
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "moleculer-fake",
+              "description": "Fake data generator by Fakerator",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 92180930,
+                "language": "JavaScript",
+                "last_commit": "2025-02-05T20:28:39Z",
+                "owner": "moleculerjs",
+                "repo": "moleculer-addons",
+                "stars": 86
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "moleculer-mail",
+              "description": "Email service based on Nodemailer",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 92180930,
+                "language": "JavaScript",
+                "last_commit": "2025-02-05T20:28:39Z",
+                "owner": "moleculerjs",
+                "repo": "moleculer-addons",
+                "stars": 86
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "moleculer-twilio",
+              "description": "SMS service based on Twilio API",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 92180930,
+                "language": "JavaScript",
+                "last_commit": "2025-02-05T20:28:39Z",
+                "owner": "moleculerjs",
+                "repo": "moleculer-addons",
+                "stars": 86
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "moleculer-slack",
+              "description": "Send Messages to Slack API",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 92180930,
+                "language": "JavaScript",
+                "last_commit": "2025-02-05T20:28:39Z",
+                "owner": "moleculerjs",
+                "repo": "moleculer-addons",
+                "stars": 86
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "moleculer-elasticsearch",
+              "description": "Elasticsearch service for Moleculer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 92180930,
+                "language": "JavaScript",
+                "last_commit": "2025-02-05T20:28:39Z",
+                "owner": "moleculerjs",
+                "repo": "moleculer-addons",
+                "stars": 86
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "moleculer-flydrive",
+              "description": "Storage manager service with Node Flydrive.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 128653531,
+                "language": "JavaScript",
+                "last_commit": "2018-05-16T15:11:23Z",
+                "owner": "molobala",
+                "repo": "moleculer-flydrive",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "moleculer-data-provider",
+              "description": "React-Admin Data provider to interact with Moleculer Services APIs",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 219531742,
+                "language": "JavaScript",
+                "last_commit": "2023-01-05T00:06:40Z",
+                "owner": "RancaguaInnova",
+                "repo": "moleculer-data-provider",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "moleculer-markdown",
+              "description": "Markdown to HTML Service",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 144637070,
+                "language": "JavaScript",
+                "last_commit": "2018-08-14T17:17:41Z",
+                "owner": "alsofronie",
+                "repo": "moleculer-markdown",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "moleculer-typetalk",
+              "description": "Send Messages to Typetalk",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 173545101,
+                "language": "JavaScript",
+                "last_commit": "2023-01-03T17:34:24Z",
+                "owner": "is2ei",
+                "repo": "moleculer-typetalk",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "General"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "moleculer-protect-services",
+              "description": "JWT protection for service actions",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 156985363,
+                "language": "JavaScript",
+                "last_commit": "2021-10-16T08:28:36Z",
+                "owner": "icebob",
+                "repo": "moleculer-protect-services",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "oauth-moleculer",
+              "description": "OAuth2 Service",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 156435754,
+                "language": "JavaScript",
+                "last_commit": "2019-06-17T13:51:06Z",
+                "owner": "zerocowl",
+                "repo": "oauth-moleculer",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "imicros-auth",
+              "description": "Authentication, Authorization and ACL services",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 137517593,
+                "language": "JavaScript",
+                "last_commit": "2023-01-07T03:58:05Z",
+                "owner": "al66",
+                "repo": "imicros-auth",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "moleculer-antivirus",
+              "description": "Service for ClamAV Antivirus Scanning",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 152973049,
+                "language": "JavaScript",
+                "last_commit": "2022-09-25T09:56:08Z",
+                "owner": "designtesbrot",
+                "repo": "moleculer-antivirus",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "moleculer-vault",
+              "description": "Service for HashiCorp's Vault",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 152843604,
+                "language": "JavaScript",
+                "last_commit": "2026-01-26T10:14:06Z",
+                "owner": "designtesbrot",
+                "repo": "moleculer-vault",
+                "stars": 10
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Security, Authentication and Authorization"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "moleculer-browser",
+              "description": "Moleculer for the browser.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 198514450,
+                "language": "JavaScript",
+                "last_commit": "2020-10-13T12:32:09Z",
+                "owner": "geut",
+                "repo": "moleculer-browser",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "serverless-moleculer",
+              "description": "Serverless Framework handler for Moleculer",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 157729598,
+                "language": "JavaScript",
+                "last_commit": "2018-12-12T13:45:15Z",
+                "owner": "davidroman0O",
+                "repo": "serverless-moleculer",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "moleculer-http-client",
+              "description": "HTTP client mixin that allows Moleculer services to communicate with remote REST APIs",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 195546162,
+                "language": "JavaScript",
+                "last_commit": "2023-06-19T18:26:09Z",
+                "owner": "moleculerjs",
+                "repo": "moleculer-http-client",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "moleculer-state-machine",
+              "description": "State Machine mixin that extends a Moleculer Service to act as a finite-state machine.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 159005226,
+                "language": "JavaScript",
+                "last_commit": "2022-04-18T20:21:09Z",
+                "owner": "fugufish",
+                "repo": "moleculer-state-machine",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "moleculer-minio",
+              "description": "Service providing actions for managing buckets and objects in an AWS S3 or Minio powered backend",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 161765618,
+                "language": "JavaScript",
+                "last_commit": "2022-09-16T17:31:23Z",
+                "owner": "designtesbrot",
+                "repo": "moleculer-minio",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "moleculer-stripe",
+              "description": "Service for Stripe",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 198468967,
+                "language": "JavaScript",
+                "last_commit": "2026-01-22T00:01:51Z",
+                "owner": "LuxChanLu",
+                "repo": "moleculer-stripe",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "imicros-flow",
+              "description": "Service for loose coupled event handling",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 135189055,
+                "language": "JavaScript",
+                "last_commit": "2024-05-25T07:47:43Z",
+                "owner": "al66",
+                "repo": "imicros-flow",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "moleculer-sharp",
+              "description": "A Moleculer Service for Image Manipulation using sharp",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 162426931,
+                "language": "JavaScript",
+                "last_commit": "2022-12-03T21:02:59Z",
+                "owner": "designtesbrot",
+                "repo": "moleculer-sharp",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "moleculer-pdf",
+              "description": "A Puppeteer-based Moleculer service that generates PDF from HTML.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 208288370,
+                "language": "JavaScript",
+                "last_commit": "2023-01-05T22:38:28Z",
+                "owner": "olivmonnier",
+                "repo": "moleculer-pdf",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "moleculer-axios",
+              "description": "Axios based HTTP client for Moleculer services",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 194018943,
+                "language": "JavaScript",
+                "last_commit": "2026-02-11T12:49:39Z",
+                "owner": "adam-mccormick",
+                "repo": "moleculer-axios",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "node-red-contrib-moleculer",
+              "description": "Node Red client for Moleculer with events, emit, call, request and response support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 203869773,
+                "language": "HTML",
+                "last_commit": "2020-10-01T18:47:12Z",
+                "owner": "chameleonbr",
+                "repo": "node-red-contrib-moleculer",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "moleculer-cls",
+              "description": "Hooked Continuation-Local Storage for Moleculer",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 173178152,
+                "language": "JavaScript",
+                "last_commit": "2026-04-02T07:49:57Z",
+                "owner": "cupsadarius",
+                "repo": "moleculer-cls",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "moleculer-aws-s3",
+              "description": "Service providing actions for managing buckets and objects in AWS S3 using the AWS S3 v3 JS client library",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 365160757,
+                "language": "JavaScript",
+                "last_commit": "2026-01-28T10:53:07Z",
+                "owner": "bitcomposer",
+                "repo": "moleculer-aws-s3",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "moleculer-i18n",
+              "description": "Server side i18n support based on Polyglot",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 627438600,
+                "language": "TypeScript",
+                "last_commit": "2023-04-28T11:01:30Z",
+                "owner": "teamcodeyard",
+                "repo": "moleculer-i18n",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "moleculer-segment",
+              "description": "Service for Segment",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 162140406,
+                "language": "TypeScript",
+                "last_commit": "2018-12-17T14:52:20Z",
+                "owner": "winoteam-archives",
+                "repo": "moleculer-segment",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "moleculer-insee-sirene",
+              "description": "Service for INSEE Sirene API. An API with info about all French companies",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 183792519,
+                "language": "JavaScript",
+                "last_commit": "2023-01-03T20:26:16Z",
+                "owner": "LuxChanLu",
+                "repo": "moleculer-insee-sirene",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "moleculer-gql-client",
+              "description": "Mixin that allows Moleculer services to perform GraphQL requests",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 656887205,
+                "language": "JavaScript",
+                "last_commit": "2023-07-10T20:17:20Z",
+                "owner": "kyleplump",
+                "repo": "moleculer-gql-client",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Others"
         }
       ],
-      "title": "Javascript"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "moleculer-template-project-typescript",
-          "description": "Project template for Typescript project.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-03-29T15:07:17Z",
-            "owner": "moleculerjs",
-            "repo": "moleculer-template-project-typescript",
-            "stars": 135
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "moleculer-template-project-ts-swagger",
-          "description": "Starter template for moleculer with swagger",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-12-19T19:05:29Z",
-            "owner": "ourparentcenter",
-            "repo": "moleculer-template-project-ts-swagger",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "moleculer-template-nano-typescript",
-          "description": "Minimal project template for Typescript project.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2018-12-07T08:14:37Z",
-            "owner": "moleculerjs",
-            "repo": "moleculer-template-nano-typescript",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "moleculer-template-project-ts",
-          "description": "Project template for typescript including decorators and more",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-11-06T05:50:12Z",
-            "owner": "d0whc3r",
-            "repo": "moleculer-template-project-ts",
-            "stars": 7
-          }
-        }
-      ],
-      "title": "Typescript"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Services"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "moleculer-web",
-          "description": "Official API Gateway service.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-03-28T18:07:02Z",
-            "owner": "moleculerjs",
-            "repo": "moleculer-web",
-            "stars": 302
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "moleculer-io",
-          "description": "Socket.IO-based API gateway mixin",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-03-29T10:51:40Z",
-            "owner": "moleculerjs",
-            "repo": "moleculer-io",
-            "stars": 100
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "moleculer-apollo-server",
-          "description": "Apollo GraphQL server for Moleculer.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-03-28T20:30:44Z",
-            "owner": "moleculerjs",
-            "repo": "moleculer-apollo-server",
-            "stars": 99
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "moleculer-grpc-api",
-          "description": "gRPC server for Moleculer.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-10-25T18:23:45Z",
-            "owner": "brunonunes",
-            "repo": "moleculer-grpc-api",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "moleculer-sc",
-          "description": "API Gateway using SocketCluster",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-06-26T13:20:53Z",
-            "owner": "tiaod",
-            "repo": "moleculer-sc",
-            "stars": 20
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "hapi-moleculer",
-          "description": "Hapi plugin for the Moleculer.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-08-21T18:06:48Z",
-            "owner": "felipegcampos",
-            "repo": "hapi-moleculer",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "moleculer-socketio",
-          "description": "Manage Socket.IO events like actions in services",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-04-30T22:24:55Z",
-            "owner": "davidroman0O",
-            "repo": "moleculer-socketio",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "moleculer-web-uws",
-          "description": "A fast API gateway based on uWebSockets.js",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-09-11T15:40:10Z",
-            "owner": "jimmielovell",
-            "repo": "moleculer-web-uws",
-            "stars": 12
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "moleculer-middleware-permissions",
+              "description": "A middleware solution to validate permissions of a request.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 158300013,
+                "language": "JavaScript",
+                "last_commit": "2021-09-21T08:15:42Z",
+                "owner": "Embraser01",
+                "repo": "moleculer-middleware-permissions",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "moleculer-keto",
+              "description": "Ory Keto Middleware and Mixin for an extensible permissions layer. NPM",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 271305455,
+                "language": "TypeScript",
+                "last_commit": "2023-01-06T08:32:33Z",
+                "owner": "derekbar90",
+                "repo": "moleculer-keto",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Security"
         }
       ],
-      "title": "Gateway"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "moleculer-db",
-          "description": "A NeDB-based service to persist your data",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-03-28T20:13:41Z",
-            "owner": "moleculerjs",
-            "repo": "moleculer-db",
-            "stars": 156
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "moleculer-db-adapter-mongo",
-          "description": "A MongoDB-based service to persist your data",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-03-28T20:13:41Z",
-            "owner": "moleculerjs",
-            "repo": "moleculer-db",
-            "stars": 156
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "moleculer-db-adapter-mongoose",
-          "description": "A Mongoose-based service to persist your data",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-03-28T20:13:41Z",
-            "owner": "moleculerjs",
-            "repo": "moleculer-db",
-            "stars": 156
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "moleculer-db-adapter-sequelize",
-          "description": "A Sequelize-based service to persist your data",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-03-28T20:13:41Z",
-            "owner": "moleculerjs",
-            "repo": "moleculer-db",
-            "stars": 156
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "moleculer-db-adapter-couchdb-nano",
-          "description": "A CouchDB adapter for Moleculer using nano.js",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-03-28T20:13:41Z",
-            "owner": "moleculerjs",
-            "repo": "moleculer-db",
-            "stars": 156
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@moleculer/database",
-          "description": "Advanced Database Access Service for Moleculer microservices framework with MongoDB adapter and Knex adapter for SQL.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-01T01:25:07Z",
-            "owner": "moleculerjs",
-            "repo": "database",
-            "stars": 33
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "moleculer-db-adapter-typeorm",
-          "description": "A TypeORM-based service to persist your data",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2021-03-24T17:21:54Z",
-            "owner": "moleculerjs",
-            "repo": "moleculer-db-adapter-typeorm",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "moleculer-gundb",
-          "description": "A GunDB mixins for Moleculer DB service.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2018-12-05T14:30:26Z",
-            "owner": "smart-matrix",
-            "repo": "moleculer-gundb",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "moleculer-db-adapter-rethinkdb",
-          "description": "A RethinkDB Moleculer service mixin.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-10-10T06:44:06Z",
-            "owner": "cantecim",
-            "repo": "moleculer-db-adapter-rethinkdb",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "moleculer-db-adapter-prisma",
-          "description": "SQL adapter for Moleculer DB service with Prisma.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-01-12T08:26:28Z",
-            "owner": "noluckjustskill",
-            "repo": "moleculer-db-adapter-prisma",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "moleculer-db-adapter-dynamodb",
-          "description": "A DynamoDB adapter for Moleculer DB service",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-04-25T00:11:48Z",
-            "owner": "katsanva",
-            "repo": "moleculer-db-adapter-dynamodb",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "moleculer-db-adapter-macrometa",
-          "description": "MacroMeta adapter for Moleculer DB service.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-02-06T18:24:47Z",
-            "owner": "moleculerjs",
-            "repo": "moleculer-db-adapter-macrometa",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "moleculer-db-adapter-scylla",
-          "description": "A scyllaDb adapter for Moleculer using express-cassandra.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-12-17T12:53:17Z",
-            "owner": "azita-abdollahi",
-            "repo": "moleculer-db-adapter-scylla",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "moleculer-db-adapter-orientdb",
-          "description": "Moleculer orientDB database adapter.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2020-05-04T07:55:48Z",
-            "owner": "saeedtabrizi",
-            "repo": "moleculer-db-adapter-orientdb",
-            "stars": 3
-          }
-        }
-      ],
-      "title": "Databases and Stores"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "moleculer-sentry",
-          "description": "Sentry-based error logging",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-01-21T23:41:42Z",
-            "owner": "LuxChanLu",
-            "repo": "moleculer-sentry",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "moleculer-elastic-apm",
-          "description": "Elastic APM-based metrics service",
-          "children": []
-        }
-      ],
-      "title": "Metrics and Tracing"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "moleculer-fake",
-          "description": "Fake data generator by Fakerator",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-02-05T20:28:39Z",
-            "owner": "moleculerjs",
-            "repo": "moleculer-addons",
-            "stars": 86
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "moleculer-mail",
-          "description": "Email service based on Nodemailer",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-02-05T20:28:39Z",
-            "owner": "moleculerjs",
-            "repo": "moleculer-addons",
-            "stars": 86
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "moleculer-twilio",
-          "description": "SMS service based on Twilio API",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-02-05T20:28:39Z",
-            "owner": "moleculerjs",
-            "repo": "moleculer-addons",
-            "stars": 86
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "moleculer-slack",
-          "description": "Send Messages to Slack API",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-02-05T20:28:39Z",
-            "owner": "moleculerjs",
-            "repo": "moleculer-addons",
-            "stars": 86
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "moleculer-elasticsearch",
-          "description": "Elasticsearch service for Moleculer.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-02-05T20:28:39Z",
-            "owner": "moleculerjs",
-            "repo": "moleculer-addons",
-            "stars": 86
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "moleculer-flydrive",
-          "description": "Storage manager service with Node Flydrive.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-05-16T15:11:23Z",
-            "owner": "molobala",
-            "repo": "moleculer-flydrive",
-            "stars": 19
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "moleculer-data-provider",
-          "description": "React-Admin Data provider to interact with Moleculer Services APIs",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-01-05T00:06:40Z",
-            "owner": "RancaguaInnova",
-            "repo": "moleculer-data-provider",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "moleculer-markdown",
-          "description": "Markdown to HTML Service",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-08-14T17:17:41Z",
-            "owner": "alsofronie",
-            "repo": "moleculer-markdown",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "moleculer-typetalk",
-          "description": "Send Messages to Typetalk",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-01-03T17:34:24Z",
-            "owner": "is2ei",
-            "repo": "moleculer-typetalk",
-            "stars": 3
-          }
-        }
-      ],
-      "title": "General"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "moleculer-protect-services",
-          "description": "JWT protection for service actions",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-10-16T08:28:36Z",
-            "owner": "icebob",
-            "repo": "moleculer-protect-services",
-            "stars": 24
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "oauth-moleculer",
-          "description": "OAuth2 Service",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2019-06-17T13:51:06Z",
-            "owner": "zerocowl",
-            "repo": "oauth-moleculer",
-            "stars": 24
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "imicros-auth",
-          "description": "Authentication, Authorization and ACL services",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-01-07T03:58:05Z",
-            "owner": "al66",
-            "repo": "imicros-auth",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "moleculer-antivirus",
-          "description": "Service for ClamAV Antivirus Scanning",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-09-25T09:56:08Z",
-            "owner": "designtesbrot",
-            "repo": "moleculer-antivirus",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "moleculer-vault",
-          "description": "Service for HashiCorp's Vault",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-01-26T10:14:06Z",
-            "owner": "designtesbrot",
-            "repo": "moleculer-vault",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "moleculer-iam",
-          "description": "Centralized IAM module for moleculer.",
-          "children": []
-        }
-      ],
-      "title": "Security, Authentication and Authorization"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "moleculer-browser",
-          "description": "Moleculer for the browser.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2020-10-13T12:32:09Z",
-            "owner": "geut",
-            "repo": "moleculer-browser",
-            "stars": 30
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "serverless-moleculer",
-          "description": "Serverless Framework handler for Moleculer",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-12-12T13:45:15Z",
-            "owner": "davidroman0O",
-            "repo": "serverless-moleculer",
-            "stars": 22
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "moleculer-http-client",
-          "description": "HTTP client mixin that allows Moleculer services to communicate with remote REST APIs",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-06-19T18:26:09Z",
-            "owner": "moleculerjs",
-            "repo": "moleculer-http-client",
-            "stars": 19
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "moleculer-state-machine",
-          "description": "State Machine mixin that extends a Moleculer Service to act as a finite-state machine.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-04-18T20:21:09Z",
-            "owner": "fugufish",
-            "repo": "moleculer-state-machine",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "moleculer-minio",
-          "description": "Service providing actions for managing buckets and objects in an AWS S3 or Minio powered backend",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-09-16T17:31:23Z",
-            "owner": "designtesbrot",
-            "repo": "moleculer-minio",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "moleculer-stripe",
-          "description": "Service for Stripe",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-01-22T00:01:51Z",
-            "owner": "LuxChanLu",
-            "repo": "moleculer-stripe",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "imicros-flow",
-          "description": "Service for loose coupled event handling",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-05-25T07:47:43Z",
-            "owner": "al66",
-            "repo": "imicros-flow",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "moleculer-sharp",
-          "description": "A Moleculer Service for Image Manipulation using sharp",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-12-03T21:02:59Z",
-            "owner": "designtesbrot",
-            "repo": "moleculer-sharp",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "moleculer-pdf",
-          "description": "A Puppeteer-based Moleculer service that generates PDF from HTML.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-01-05T22:38:28Z",
-            "owner": "olivmonnier",
-            "repo": "moleculer-pdf",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "moleculer-axios",
-          "description": "Axios based HTTP client for Moleculer services",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-02-11T12:49:39Z",
-            "owner": "adam-mccormick",
-            "repo": "moleculer-axios",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "node-red-contrib-moleculer",
-          "description": "Node Red client for Moleculer with events, emit, call, request and response support.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2020-10-01T18:47:12Z",
-            "owner": "chameleonbr",
-            "repo": "node-red-contrib-moleculer",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "moleculer-cls",
-          "description": "Hooked Continuation-Local Storage for Moleculer",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-04-02T07:49:57Z",
-            "owner": "cupsadarius",
-            "repo": "moleculer-cls",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "moleculer-aws-s3",
-          "description": "Service providing actions for managing buckets and objects in AWS S3 using the AWS S3 v3 JS client library",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-01-28T10:53:07Z",
-            "owner": "bitcomposer",
-            "repo": "moleculer-aws-s3",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "moleculer-i18n",
-          "description": "Server side i18n support based on Polyglot",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-04-28T11:01:30Z",
-            "owner": "teamcodeyard",
-            "repo": "moleculer-i18n",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "moleculer-segment",
-          "description": "Service for Segment",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2018-12-17T14:52:20Z",
-            "owner": "winoteam-archives",
-            "repo": "moleculer-segment",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "moleculer-insee-sirene",
-          "description": "Service for INSEE Sirene API. An API with info about all French companies",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-01-03T20:26:16Z",
-            "owner": "LuxChanLu",
-            "repo": "moleculer-insee-sirene",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "moleculer-gql-client",
-          "description": "Mixin that allows Moleculer services to perform GraphQL requests",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-07-10T20:17:20Z",
-            "owner": "kyleplump",
-            "repo": "moleculer-gql-client",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dns",
-          "description": "DNS nameserver, DNS over HTTPS, DNS resolver",
-          "children": []
-        }
-      ],
-      "title": "Others"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Middlewares"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "moleculer-middleware-permissions",
-          "description": "A middleware solution to validate permissions of a request.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2021-09-21T08:15:42Z",
-            "owner": "Embraser01",
-            "repo": "moleculer-middleware-permissions",
-            "stars": 12
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "moleculer-bee-queue",
+              "description": "Task queue mixin for Bee-Queue",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 92180930,
+                "language": "JavaScript",
+                "last_commit": "2025-02-05T20:28:39Z",
+                "owner": "moleculerjs",
+                "repo": "moleculer-addons",
+                "stars": 86
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "moleculer-bull",
+              "description": "Task queue mixin for Bull",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 92180930,
+                "language": "JavaScript",
+                "last_commit": "2025-02-05T20:28:39Z",
+                "owner": "moleculerjs",
+                "repo": "moleculer-addons",
+                "stars": 86
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "moleculer-cron",
+              "description": "Moleculer mixin for node-cron",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 121531026,
+                "language": "JavaScript",
+                "last_commit": "2024-07-19T17:02:04Z",
+                "owner": "davidroman0O",
+                "repo": "moleculer-cron",
+                "stars": 41
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "moleculer-bullmq",
+              "description": "Task queue mixin for BullMq",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 237126614,
+                "language": "JavaScript",
+                "last_commit": "2022-12-28T19:14:29Z",
+                "owner": "LuxChanLu",
+                "repo": "moleculer-bullmq",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@r2d2bzh/moleculer-cron",
+              "description": "Another moleculer mixin for node-cron",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 483152331,
+                "language": "JavaScript",
+                "last_commit": "2024-04-19T07:43:11Z",
+                "owner": "r2d2bzh",
+                "repo": "moleculer-cron",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "moleculer-faktory",
+              "description": "Task queue mixin for Faktory",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 184297966,
+                "language": "JavaScript",
+                "last_commit": "2022-12-30T09:22:59Z",
+                "owner": "LuxChanLu",
+                "repo": "moleculer-faktory",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "moleculer-amqp-queue",
+              "description": "Task queue mixin for AMQP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 194249338,
+                "language": "JavaScript",
+                "last_commit": "2023-01-04T01:26:31Z",
+                "owner": "lehno",
+                "repo": "moleculer-amqp-queue",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tasks, Queues and Jobs"
         },
         {
-          "node_type": "item",
-          "title": "moleculer-keto",
-          "description": "Ory Keto Middleware and Mixin for an extensible permissions layer. NPM",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-01-06T08:32:33Z",
-            "owner": "derekbar90",
-            "repo": "moleculer-keto",
-            "stars": 2
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Joi",
+              "description": "Joi based validator",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5830987,
+                "language": "JavaScript",
+                "last_commit": "2026-08-19T10:31:13Z",
+                "owner": "hapijs",
+                "repo": "joi",
+                "stars": 21181
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fastest-validator",
+              "description": "Moleculer's default validator is based on fastest-validator",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 84318409,
+                "language": "JavaScript",
+                "last_commit": "2026-04-09T17:16:54Z",
+                "owner": "icebob",
+                "repo": "fastest-validator",
+                "stars": 1463
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ts-transformer-json-schema",
+              "description": "Use Typescript Intefraces as validator.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 191825608,
+                "language": "TypeScript",
+                "last_commit": "2020-03-29T15:48:22Z",
+                "owner": "ipetrovic11",
+                "repo": "ts-transformer-json-schema",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "moleculer-json-schema-validator",
+              "description": "JSON Schema validator",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 118069942,
+                "language": "JavaScript",
+                "last_commit": "2019-10-30T18:28:37Z",
+                "owner": "zhaoyao91",
+                "repo": "moleculer-json-schema-validator",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "moleculer-zod-validator",
+              "description": "A validator that allows the use of Zod for type-safe validation and type inference.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 432599765,
+                "language": "TypeScript",
+                "last_commit": "2026-08-05T12:41:52Z",
+                "owner": "TheAppleFreak",
+                "repo": "moleculer-zod-validator",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Validation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "moleculer-postgraphile",
+              "description": "Postgraphile Create postgraphile service for automatically detects tables, columns, indexes, relationships, views, types, functions, comments, and more.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 178359838,
+                "language": "TypeScript",
+                "last_commit": "2023-01-03T19:02:04Z",
+                "owner": "ltv",
+                "repo": "moleculer-postgraphile",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "moleculer-db-graphql",
+              "description": "Complementary mixin which provides a graphql schema that matches those exposed my moleculer-db. NPM",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 271388274,
+                "language": "TypeScript",
+                "last_commit": "2023-01-06T08:37:51Z",
+                "owner": "derekbar90",
+                "repo": "moleculer-db-graphql",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "GraphQL"
         }
       ],
-      "title": "Security"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Mixins"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "moleculer-bee-queue",
-          "description": "Task queue mixin for Bee-Queue",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-02-05T20:28:39Z",
-            "owner": "moleculerjs",
-            "repo": "moleculer-addons",
-            "stars": 86
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "moleculer-bull",
-          "description": "Task queue mixin for Bull",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-02-05T20:28:39Z",
-            "owner": "moleculerjs",
-            "repo": "moleculer-addons",
-            "stars": 86
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "moleculer-cron",
-          "description": "Moleculer mixin for node-cron",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-07-19T17:02:04Z",
-            "owner": "davidroman0O",
-            "repo": "moleculer-cron",
-            "stars": 41
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "moleculer-bullmq",
-          "description": "Task queue mixin for BullMq",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-12-28T19:14:29Z",
-            "owner": "LuxChanLu",
-            "repo": "moleculer-bullmq",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@r2d2bzh/moleculer-cron",
-          "description": "Another moleculer mixin for node-cron",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-04-19T07:43:11Z",
-            "owner": "r2d2bzh",
-            "repo": "moleculer-cron",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "moleculer-faktory",
-          "description": "Task queue mixin for Faktory",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-12-30T09:22:59Z",
-            "owner": "LuxChanLu",
-            "repo": "moleculer-faktory",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "moleculer-amqp-queue",
-          "description": "Task queue mixin for AMQP",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-01-04T01:26:31Z",
-            "owner": "lehno",
-            "repo": "moleculer-amqp-queue",
-            "stars": 4
-          }
-        }
-      ],
-      "title": "Tasks, Queues and Jobs"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Joi",
-          "description": "Joi based validator",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-06-17T16:53:28Z",
-            "owner": "hapijs",
-            "repo": "joi",
-            "stars": 21180
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fastest-validator",
-          "description": "Moleculer's default validator is based on fastest-validator",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-04-09T17:16:54Z",
-            "owner": "icebob",
-            "repo": "fastest-validator",
-            "stars": 1463
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ts-transformer-json-schema",
-          "description": "Use Typescript Intefraces as validator.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2020-03-29T15:48:22Z",
-            "owner": "ipetrovic11",
-            "repo": "ts-transformer-json-schema",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "moleculer-json-schema-validator",
-          "description": "JSON Schema validator",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2019-10-30T18:28:37Z",
-            "owner": "zhaoyao91",
-            "repo": "moleculer-json-schema-validator",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "moleculer-zod-validator",
-          "description": "A validator that allows the use of Zod for type-safe validation and type inference.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-05T12:41:52Z",
-            "owner": "TheAppleFreak",
-            "repo": "moleculer-zod-validator",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "Validation"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "moleculer-postgraphile",
-          "description": "Postgraphile Create postgraphile service for automatically detects tables, columns, indexes, relationships, views, types, functions, comments, and more.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-01-03T19:02:04Z",
-            "owner": "ltv",
-            "repo": "moleculer-postgraphile",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "moleculer-db-graphql",
-          "description": "Complementary mixin which provides a graphql schema that matches those exposed my moleculer-db. NPM",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-01-06T08:37:51Z",
-            "owner": "derekbar90",
-            "repo": "moleculer-db-graphql",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "GraphQL"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1500,6 +1599,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 380325092,
             "language": "JavaScript",
             "last_commit": "2026-05-25T17:25:15Z",
             "owner": "moleculerjs",
@@ -1514,6 +1614,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 116502527,
             "language": "TypeScript",
             "last_commit": "2023-01-23T22:05:48Z",
             "owner": "ColonelBundy",
@@ -1528,6 +1629,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 321434297,
             "language": "JavaScript",
             "last_commit": "2025-11-19T13:20:20Z",
             "owner": "grinat",
@@ -1542,6 +1644,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 219496174,
             "language": "TypeScript",
             "last_commit": "2022-12-10T18:31:08Z",
             "owner": "jarvify",
@@ -1556,6 +1659,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 631330113,
             "language": "TypeScript",
             "last_commit": "2023-04-24T09:22:07Z",
             "owner": "ishfx",
@@ -1570,6 +1674,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 198362574,
             "language": "JavaScript",
             "last_commit": "2019-07-25T04:31:53Z",
             "owner": "amroessam",
@@ -1584,6 +1689,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 215089041,
             "language": "TypeScript",
             "last_commit": "2026-06-08T22:16:51Z",
             "owner": "AmauryD",
@@ -1598,6 +1704,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 127850721,
             "language": "TypeScript",
             "last_commit": "2022-11-05T10:24:23Z",
             "owner": "rmccallum81",
@@ -1612,6 +1719,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 231667412,
             "language": "TypeScript",
             "last_commit": "2023-01-07T04:32:38Z",
             "owner": "bytetechnology",
@@ -1626,6 +1734,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 243947658,
             "language": null,
             "last_commit": "2020-06-19T04:44:52Z",
             "owner": "pavittarx",
@@ -1640,6 +1749,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 700327601,
             "language": "TypeScript",
             "last_commit": "2026-08-18T19:46:27Z",
             "owner": "spailybot",
@@ -1651,76 +1761,83 @@
       "title": "Tools"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Polyglot Implementations"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "moleculer-python",
-          "description": "Python implementation of the Moleculer microservices framework.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-02-07T13:03:08Z",
-            "owner": "ToGoBananas",
-            "repo": "moleculer-python",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "moleculer-client",
-          "description": "Simple Client to communicate with Moleculer services using NATS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-06-11T14:53:15Z",
-            "owner": "CaioFilus",
-            "repo": "moleculer-client",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pylecular",
-          "description": "Another Python implementation of the Moleculer microservices framework.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-11-24T20:38:29Z",
-            "owner": "alvaroinckot",
-            "repo": "pylecular",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tiny-moleculer-py",
-          "description": "It is a lightweight asyncio python implementation of the Moleculer microservices framework support Redis Transport.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-06-27T03:44:42Z",
-            "owner": "tinnguyenhuuletrong",
-            "repo": "tiny-moleculer-py",
-            "stars": 3
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "moleculer-python",
+              "description": "Python implementation of the Moleculer microservices framework.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 117843003,
+                "language": "Python",
+                "last_commit": "2018-02-07T13:03:08Z",
+                "owner": "ToGoBananas",
+                "repo": "moleculer-python",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "moleculer-client",
+              "description": "Simple Client to communicate with Moleculer services using NATS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 271567718,
+                "language": "Python",
+                "last_commit": "2020-06-11T14:53:15Z",
+                "owner": "CaioFilus",
+                "repo": "moleculer-client",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pylecular",
+              "description": "Another Python implementation of the Moleculer microservices framework.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 984401200,
+                "language": "Python",
+                "last_commit": "2025-11-24T20:38:29Z",
+                "owner": "alvaroinckot",
+                "repo": "pylecular",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tiny-moleculer-py",
+              "description": "It is a lightweight asyncio python implementation of the Moleculer microservices framework support Redis Transport.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1008176777,
+                "language": "Python",
+                "last_commit": "2025-06-27T03:44:42Z",
+                "owner": "tinnguyenhuuletrong",
+                "repo": "tiny-moleculer-py",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Python"
         }
       ],
-      "title": "Python"
+      "title": "Polyglot Implementations"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T01:52:23.786Z",
+    "last_updated": "2026-08-19T12:44:25.827Z",
     "original_repository": "moleculerjs/awesome-moleculer",
+    "original_repository_id": 155965667,
     "original_repository_sha": "f44026c323dab3514ada6db1cf6533018dda4de0",
     "enhanced_repository": "enhansome/enhansome-moleculer",
     "enhanced_repository_description": null,
