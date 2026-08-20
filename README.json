@@ -1478,7 +1478,7 @@
                 "archived": false,
                 "id": 5830987,
                 "language": "JavaScript",
-                "last_commit": "2026-08-19T10:31:13Z",
+                "last_commit": "2026-08-19T15:09:15Z",
                 "owner": "hapijs",
                 "repo": "joi",
                 "stars": 21181
@@ -1493,7 +1493,7 @@
                 "archived": false,
                 "id": 84318409,
                 "language": "JavaScript",
-                "last_commit": "2026-04-09T17:16:54Z",
+                "last_commit": "2026-08-19T15:11:45Z",
                 "owner": "icebob",
                 "repo": "fastest-validator",
                 "stars": 1463
@@ -1835,7 +1835,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:44:25.827Z",
+    "last_updated": "2026-08-20T01:51:18.906Z",
     "original_repository": "moleculerjs/awesome-moleculer",
     "original_repository_id": 155965667,
     "original_repository_sha": "f44026c323dab3514ada6db1cf6533018dda4de0",
