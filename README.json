@@ -102,10 +102,10 @@
                 "archived": false,
                 "id": 377687390,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T03:49:53Z",
+                "last_commit": "2026-08-21T17:36:28Z",
                 "owner": "msgbyte",
                 "repo": "tailchat",
-                "stars": 3613
+                "stars": 3612
               }
             },
             {
@@ -177,7 +177,7 @@
                 "archived": false,
                 "id": 194494832,
                 "language": "JavaScript",
-                "last_commit": "2026-08-15T14:03:23Z",
+                "last_commit": "2026-08-21T17:19:25Z",
                 "owner": "StretchShop",
                 "repo": "StretchShop",
                 "stars": 76
@@ -667,7 +667,7 @@
                 "archived": false,
                 "id": 293814720,
                 "language": "JavaScript",
-                "last_commit": "2026-08-01T01:25:07Z",
+                "last_commit": "2026-08-21T13:57:13Z",
                 "owner": "moleculerjs",
                 "repo": "database",
                 "stars": 33
@@ -1481,7 +1481,7 @@
                 "last_commit": "2026-08-19T15:09:15Z",
                 "owner": "hapijs",
                 "repo": "joi",
-                "stars": 21178
+                "stars": 21180
               }
             },
             {
@@ -1538,7 +1538,7 @@
                 "archived": false,
                 "id": 432599765,
                 "language": "TypeScript",
-                "last_commit": "2026-08-05T12:41:52Z",
+                "last_commit": "2026-08-21T02:34:03Z",
                 "owner": "TheAppleFreak",
                 "repo": "moleculer-zod-validator",
                 "stars": 2
@@ -1835,7 +1835,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T01:56:49.846Z",
+    "last_updated": "2026-08-22T01:49:40.101Z",
     "original_repository": "moleculerjs/awesome-moleculer",
     "original_repository_id": 155965667,
     "original_repository_sha": "f44026c323dab3514ada6db1cf6533018dda4de0",
