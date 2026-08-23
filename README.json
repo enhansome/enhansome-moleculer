@@ -102,10 +102,10 @@
                 "archived": false,
                 "id": 377687390,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T17:36:28Z",
+                "last_commit": "2026-08-22T16:33:38Z",
                 "owner": "msgbyte",
                 "repo": "tailchat",
-                "stars": 3612
+                "stars": 3613
               }
             },
             {
@@ -1538,7 +1538,7 @@
                 "archived": false,
                 "id": 432599765,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T02:34:03Z",
+                "last_commit": "2026-08-22T04:58:55Z",
                 "owner": "TheAppleFreak",
                 "repo": "moleculer-zod-validator",
                 "stars": 2
@@ -1751,7 +1751,7 @@
             "archived": false,
             "id": 700327601,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T21:34:28Z",
+            "last_commit": "2026-08-22T16:58:21Z",
             "owner": "spailybot",
             "repo": "moleculer-auto-openapi",
             "stars": 4
@@ -1835,7 +1835,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T01:49:40.101Z",
+    "last_updated": "2026-08-23T01:59:01.513Z",
     "original_repository": "moleculerjs/awesome-moleculer",
     "original_repository_id": 155965667,
     "original_repository_sha": "f44026c323dab3514ada6db1cf6533018dda4de0",
