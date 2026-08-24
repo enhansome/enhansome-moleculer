@@ -84,6 +84,28 @@
           "description": null,
           "node_type": "group",
           "title": "Cheatsheets"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Microservices 4 Real - Martín Acosta",
+              "description": "Talk in Spanish from the JSDayUY 2017 about how a developer that used to work on monolithic apps started to learn and create a complete production app using a microservices architecture on top of Moleculer. repo",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 125918838,
+                "language": "JavaScript",
+                "last_commit": "2018-03-19T21:09:10Z",
+                "owner": "tinchoz49",
+                "repo": "microservices-for-real",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Videos"
         }
       ],
       "title": "Resources"
@@ -105,7 +127,7 @@
                 "last_commit": "2026-08-22T16:33:38Z",
                 "owner": "msgbyte",
                 "repo": "tailchat",
-                "stars": 3613
+                "stars": 3614
               }
             },
             {
@@ -1316,6 +1338,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Health-check middleware",
+              "description": "Health-check middleware for Moleculer (for Kubernetes liveness readiness checks)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 267247045,
+                "language": "JavaScript",
+                "last_commit": "2026-06-26T09:36:33Z",
+                "owner": "r2d2bzh",
+                "repo": "moleculer-healthcheck-middleware",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "General"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "moleculer-middleware-permissions",
               "description": "A middleware solution to validate permissions of a request.",
               "children": [],
@@ -1348,6 +1392,28 @@
           "description": null,
           "node_type": "group",
           "title": "Security"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "moleculer-middleware-permissions",
+              "description": "A database integrator for injecting a transaction safe database session into the context of the action.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 245462454,
+                "language": "TypeScript",
+                "last_commit": "2023-01-11T03:26:38Z",
+                "owner": "bytetechnology",
+                "repo": "moleculer-context-db",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Database"
         }
       ],
       "title": "Middlewares"
@@ -1355,6 +1421,28 @@
     {
       "description": null,
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DB handler mixin for Moleculer DB",
+              "description": "Swap easily between MongoDB for development & production and NeDB for unit testing",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9795883,
+                "language": "JavaScript",
+                "last_commit": "2025-05-15T20:08:26Z",
+                "owner": "louischatriot",
+                "repo": "nedb",
+                "stars": 13535
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Database"
+        },
         {
           "children": [
             {
@@ -1835,7 +1923,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T01:56:51.104Z",
+    "last_updated": "2026-08-24T14:25:35.965Z",
     "original_repository": "moleculerjs/awesome-moleculer",
     "original_repository_id": 155965667,
     "original_repository_sha": "f44026c323dab3514ada6db1cf6533018dda4de0",
