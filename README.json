@@ -177,7 +177,7 @@
                 "archived": false,
                 "id": 194494832,
                 "language": "JavaScript",
-                "last_commit": "2026-08-21T17:19:25Z",
+                "last_commit": "2026-08-23T11:21:26Z",
                 "owner": "StretchShop",
                 "repo": "StretchShop",
                 "stars": 76
@@ -1835,7 +1835,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T01:59:01.513Z",
+    "last_updated": "2026-08-24T01:56:51.104Z",
     "original_repository": "moleculerjs/awesome-moleculer",
     "original_repository_id": 155965667,
     "original_repository_sha": "f44026c323dab3514ada6db1cf6533018dda4de0",
