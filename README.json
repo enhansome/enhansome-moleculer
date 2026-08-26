@@ -127,7 +127,7 @@
                 "last_commit": "2026-08-22T16:33:38Z",
                 "owner": "msgbyte",
                 "repo": "tailchat",
-                "stars": 3614
+                "stars": 3613
               }
             },
             {
@@ -199,7 +199,7 @@
                 "archived": false,
                 "id": 194494832,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T15:16:25Z",
+                "last_commit": "2026-08-25T18:35:07Z",
                 "owner": "StretchShop",
                 "repo": "StretchShop",
                 "stars": 76
@@ -1435,7 +1435,7 @@
                 "last_commit": "2025-05-15T20:08:26Z",
                 "owner": "louischatriot",
                 "repo": "nedb",
-                "stars": 13535
+                "stars": 13534
               }
             }
           ],
@@ -1839,7 +1839,7 @@
             "archived": false,
             "id": 700327601,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T16:58:21Z",
+            "last_commit": "2026-08-26T00:34:40Z",
             "owner": "spailybot",
             "repo": "moleculer-auto-openapi",
             "stars": 4
@@ -1923,7 +1923,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:17:48.870Z",
+    "last_updated": "2026-08-26T01:57:43.670Z",
     "original_repository": "moleculerjs/awesome-moleculer",
     "original_repository_id": 155965667,
     "original_repository_sha": "f44026c323dab3514ada6db1cf6533018dda4de0",
