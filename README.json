@@ -1569,7 +1569,7 @@
                 "last_commit": "2026-08-19T15:09:15Z",
                 "owner": "hapijs",
                 "repo": "joi",
-                "stars": 21180
+                "stars": 21181
               }
             },
             {
@@ -1584,7 +1584,7 @@
                 "last_commit": "2026-08-20T21:39:10Z",
                 "owner": "icebob",
                 "repo": "fastest-validator",
-                "stars": 1463
+                "stars": 1464
               }
             },
             {
@@ -1923,9 +1923,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T09:46:36.254Z",
-    "original_repository": "moleculerjs/awesome-moleculer",
-    "original_repository_id": 155965667,
+    "last_updated": "2026-08-27T11:51:59.975Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 155965667,
+      "language": "JavaScript",
+      "last_commit": "2025-09-05T09:01:24Z",
+      "owner": "moleculerjs",
+      "repo": "awesome-moleculer",
+      "stars": 386
+    },
     "original_repository_sha": "f44026c323dab3514ada6db1cf6533018dda4de0",
     "enhanced_repository": "enhansome/enhansome-moleculer",
     "enhanced_repository_description": null,
