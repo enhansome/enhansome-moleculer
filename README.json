@@ -1108,7 +1108,7 @@
                 "id": 293814720,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-08-21T13:57:13Z",
+                "last_commit": "2026-08-29T16:59:39Z",
                 "open_issues": 10,
                 "owner": "moleculerjs",
                 "repo": "database",
@@ -2999,7 +2999,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T07:03:29.808Z",
+    "last_updated": "2026-08-30T05:23:05.848Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: A list of awesome things related to Moleculer microservices framework",
