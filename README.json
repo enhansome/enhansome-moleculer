@@ -189,10 +189,10 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-22T16:33:38Z",
-                "open_issues": 125,
+                "open_issues": 126,
                 "owner": "msgbyte",
                 "repo": "tailchat",
-                "stars": 3615,
+                "stars": 3618,
                 "topics": [
                   "bot",
                   "discord",
@@ -2465,10 +2465,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-19T15:09:15Z",
-                "open_issues": 204,
+                "open_issues": 205,
                 "owner": "hapijs",
                 "repo": "joi",
-                "stars": 21180,
+                "stars": 21178,
                 "topics": [
                   "hapi",
                   "javascript",
@@ -2494,7 +2494,7 @@
                 "open_issues": 45,
                 "owner": "icebob",
                 "repo": "fastest-validator",
-                "stars": 1463,
+                "stars": 1462,
                 "topics": [
                   "schema",
                   "schema-validation",
@@ -2788,7 +2788,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-06-08T22:16:51Z",
-            "open_issues": 3,
+            "open_issues": 2,
             "owner": "AmauryD",
             "repo": "fastest-validator-decorators",
             "stars": 19,
@@ -2879,7 +2879,7 @@
             "id": 700327601,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-01T02:31:41Z",
+            "last_commit": "2026-09-01T18:29:31Z",
             "open_issues": 5,
             "owner": "spailybot",
             "repo": "moleculer-auto-openapi",
@@ -2999,7 +2999,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T05:06:10.923Z",
+    "last_updated": "2026-09-02T04:31:54.212Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: A list of awesome things related to Moleculer microservices framework",
