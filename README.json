@@ -2263,7 +2263,7 @@
                 "open_issues": 209,
                 "owner": "louischatriot",
                 "repo": "nedb",
-                "stars": 13535,
+                "stars": 13533,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:08.587Z"
@@ -2879,8 +2879,8 @@
             "id": 700327601,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T10:13:04Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-04T14:15:15Z",
+            "open_issues": 6,
             "owner": "spailybot",
             "repo": "moleculer-auto-openapi",
             "stars": 4,
@@ -2999,7 +2999,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T04:31:11.619Z",
+    "last_updated": "2026-09-05T04:26:22.483Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: A list of awesome things related to Moleculer microservices framework",
