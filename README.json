@@ -250,7 +250,7 @@
                 "language": "HTML",
                 "license": "MIT",
                 "last_commit": "2021-12-02T20:44:49Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "moleculerjs",
                 "repo": "moleculer-examples",
                 "stars": 161,
@@ -274,7 +274,7 @@
                 "language": "HTML",
                 "license": "MIT",
                 "last_commit": "2021-12-02T20:44:49Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "moleculerjs",
                 "repo": "moleculer-examples",
                 "stars": 161,
@@ -2468,7 +2468,7 @@
                 "open_issues": 199,
                 "owner": "hapijs",
                 "repo": "joi",
-                "stars": 21178,
+                "stars": 21176,
                 "topics": [
                   "hapi",
                   "javascript",
@@ -2879,8 +2879,8 @@
             "id": 700327601,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-04T14:15:15Z",
-            "open_issues": 6,
+            "last_commit": "2026-09-05T20:23:12Z",
+            "open_issues": 7,
             "owner": "spailybot",
             "repo": "moleculer-auto-openapi",
             "stars": 4,
@@ -2999,7 +2999,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T04:26:22.483Z",
+    "last_updated": "2026-09-06T04:37:11.164Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: A list of awesome things related to Moleculer microservices framework",
