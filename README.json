@@ -192,7 +192,7 @@
                 "open_issues": 128,
                 "owner": "msgbyte",
                 "repo": "tailchat",
-                "stars": 3620,
+                "stars": 3622,
                 "topics": [
                   "bot",
                   "discord",
@@ -1264,7 +1264,7 @@
                 "id": 844479699,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2025-12-17T12:53:17Z",
+                "last_commit": "2026-09-12T20:09:17Z",
                 "open_issues": 0,
                 "owner": "azita-abdollahi",
                 "repo": "moleculer-db-adapter-scylla",
@@ -2999,7 +2999,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T04:32:43.257Z",
+    "last_updated": "2026-09-13T04:45:37.675Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: A list of awesome things related to Moleculer microservices framework",
