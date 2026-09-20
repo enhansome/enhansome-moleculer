@@ -1229,6 +1229,33 @@
             },
             {
               "node_type": "item",
+              "title": "moleculer-db-adapter-scylla",
+              "description": "A scyllaDb adapter for Moleculer using express-cassandra.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "ScyllaDb Adapter for Moleculer",
+                "homepage": "https://moleculer.services/",
+                "id": 844479699,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2026-09-12T20:09:17Z",
+                "open_issues": 0,
+                "owner": "azita-abdollahi",
+                "repo": "moleculer-db-adapter-scylla",
+                "stars": 5,
+                "topics": [
+                  "database-adapter",
+                  "express-cassandra",
+                  "moleculerjs",
+                  "nodejs",
+                  "scylladb"
+                ]
+              },
+              "first_seen": "2026-08-28T11:22:08.587Z"
+            },
+            {
+              "node_type": "item",
               "title": "moleculer-db-adapter-macrometa",
               "description": "MacroMeta adapter for Moleculer DB service.",
               "children": [],
@@ -1248,33 +1275,6 @@
                   "data-access-layer",
                   "macrometa",
                   "moleculer"
-                ]
-              },
-              "first_seen": "2026-08-28T11:22:08.587Z"
-            },
-            {
-              "node_type": "item",
-              "title": "moleculer-db-adapter-scylla",
-              "description": "A scyllaDb adapter for Moleculer using express-cassandra.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "ScyllaDb Adapter for Moleculer",
-                "homepage": "https://moleculer.services/",
-                "id": 844479699,
-                "language": "JavaScript",
-                "license": "MIT",
-                "last_commit": "2026-09-12T20:09:17Z",
-                "open_issues": 0,
-                "owner": "azita-abdollahi",
-                "repo": "moleculer-db-adapter-scylla",
-                "stars": 4,
-                "topics": [
-                  "database-adapter",
-                  "express-cassandra",
-                  "moleculerjs",
-                  "nodejs",
-                  "scylladb"
                 ]
               },
               "first_seen": "2026-08-28T11:22:08.587Z"
@@ -2468,7 +2468,7 @@
                 "open_issues": 200,
                 "owner": "hapijs",
                 "repo": "joi",
-                "stars": 21173,
+                "stars": 21172,
                 "topics": [
                   "hapi",
                   "javascript",
@@ -2645,7 +2645,7 @@
             "id": 380325092,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-18T19:33:48Z",
+            "last_commit": "2026-09-19T16:28:40Z",
             "open_issues": 12,
             "owner": "moleculerjs",
             "repo": "moleculer-channels",
@@ -2879,8 +2879,8 @@
             "id": 700327601,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-19T00:02:50Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-19T14:15:05Z",
+            "open_issues": 2,
             "owner": "spailybot",
             "repo": "moleculer-auto-openapi",
             "stars": 4,
@@ -2999,7 +2999,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T04:36:01.791Z",
+    "last_updated": "2026-09-20T04:52:33.973Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: A list of awesome things related to Moleculer microservices framework",
