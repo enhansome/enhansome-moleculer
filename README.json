@@ -2465,7 +2465,7 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-11T13:29:00Z",
-                "open_issues": 200,
+                "open_issues": 202,
                 "owner": "hapijs",
                 "repo": "joi",
                 "stars": 21172,
@@ -2879,7 +2879,7 @@
             "id": 700327601,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-19T14:15:05Z",
+            "last_commit": "2026-09-20T14:22:18Z",
             "open_issues": 2,
             "owner": "spailybot",
             "repo": "moleculer-auto-openapi",
@@ -2999,7 +2999,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T04:52:33.973Z",
+    "last_updated": "2026-09-21T04:53:54.966Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: A list of awesome things related to Moleculer microservices framework",
