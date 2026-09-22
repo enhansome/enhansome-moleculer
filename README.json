@@ -192,7 +192,7 @@
                 "open_issues": 128,
                 "owner": "msgbyte",
                 "repo": "tailchat",
-                "stars": 3626,
+                "stars": 3629,
                 "topics": [
                   "bot",
                   "discord",
@@ -2999,7 +2999,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T04:53:54.966Z",
+    "last_updated": "2026-09-22T04:54:01.455Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: A list of awesome things related to Moleculer microservices framework",
