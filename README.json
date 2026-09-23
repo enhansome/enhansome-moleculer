@@ -188,11 +188,11 @@
                 "id": 377687390,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-22T16:33:38Z",
+                "last_commit": "2026-09-22T18:13:48Z",
                 "open_issues": 128,
                 "owner": "msgbyte",
                 "repo": "tailchat",
-                "stars": 3629,
+                "stars": 3630,
                 "topics": [
                   "bot",
                   "discord",
@@ -323,11 +323,11 @@
                 "id": 194494832,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-17T18:11:07Z",
-                "open_issues": 5,
+                "last_commit": "2026-09-22T16:01:40Z",
+                "open_issues": 2,
                 "owner": "StretchShop",
                 "repo": "StretchShop",
-                "stars": 76,
+                "stars": 77,
                 "topics": [
                   "ecommerce",
                   "ecommerce-shopping-solution",
@@ -2879,7 +2879,7 @@
             "id": 700327601,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-20T14:22:18Z",
+            "last_commit": "2026-09-22T20:30:27Z",
             "open_issues": 2,
             "owner": "spailybot",
             "repo": "moleculer-auto-openapi",
@@ -2999,7 +2999,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T04:54:01.455Z",
+    "last_updated": "2026-09-23T04:43:39.495Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: A list of awesome things related to Moleculer microservices framework",
