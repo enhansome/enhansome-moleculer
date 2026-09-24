@@ -188,11 +188,11 @@
                 "id": 377687390,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-22T18:13:48Z",
+                "last_commit": "2026-09-23T15:23:50Z",
                 "open_issues": 128,
                 "owner": "msgbyte",
                 "repo": "tailchat",
-                "stars": 3630,
+                "stars": 3633,
                 "topics": [
                   "bot",
                   "discord",
@@ -2263,7 +2263,7 @@
                 "open_issues": 209,
                 "owner": "louischatriot",
                 "repo": "nedb",
-                "stars": 13531,
+                "stars": 13532,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:08.587Z"
@@ -2465,7 +2465,7 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-11T13:29:00Z",
-                "open_issues": 202,
+                "open_issues": 201,
                 "owner": "hapijs",
                 "repo": "joi",
                 "stars": 21172,
@@ -2879,7 +2879,7 @@
             "id": 700327601,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-22T20:30:27Z",
+            "last_commit": "2026-09-24T04:46:50Z",
             "open_issues": 2,
             "owner": "spailybot",
             "repo": "moleculer-auto-openapi",
@@ -2999,7 +2999,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T04:43:39.495Z",
+    "last_updated": "2026-09-24T04:48:31.897Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: A list of awesome things related to Moleculer microservices framework",
