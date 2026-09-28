@@ -188,7 +188,7 @@
                 "id": 377687390,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-26T17:48:27Z",
+                "last_commit": "2026-09-27T13:37:25Z",
                 "open_issues": 128,
                 "owner": "msgbyte",
                 "repo": "tailchat",
@@ -2263,7 +2263,7 @@
                 "open_issues": 209,
                 "owner": "louischatriot",
                 "repo": "nedb",
-                "stars": 13531,
+                "stars": 13530,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:08.587Z"
@@ -2999,7 +2999,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T05:16:56.887Z",
+    "last_updated": "2026-09-28T05:22:06.495Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: A list of awesome things related to Moleculer microservices framework",
