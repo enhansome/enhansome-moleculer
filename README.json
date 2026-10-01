@@ -323,11 +323,11 @@
                 "id": 194494832,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-28T22:55:54Z",
-                "open_issues": 3,
+                "last_commit": "2026-09-30T07:13:17Z",
+                "open_issues": 1,
                 "owner": "StretchShop",
                 "repo": "StretchShop",
-                "stars": 77,
+                "stars": 76,
                 "topics": [
                   "ecommerce",
                   "ecommerce-shopping-solution",
@@ -2465,10 +2465,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-11T13:29:00Z",
-                "open_issues": 202,
+                "open_issues": 203,
                 "owner": "hapijs",
                 "repo": "joi",
-                "stars": 21173,
+                "stars": 21168,
                 "topics": [
                   "hapi",
                   "javascript",
@@ -2999,7 +2999,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T05:30:45.428Z",
+    "last_updated": "2026-10-01T05:50:44.162Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: A list of awesome things related to Moleculer microservices framework",
