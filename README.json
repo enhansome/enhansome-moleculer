@@ -188,11 +188,11 @@
                 "id": 377687390,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-27T13:37:25Z",
+                "last_commit": "2026-10-02T15:27:53Z",
                 "open_issues": 129,
                 "owner": "msgbyte",
                 "repo": "tailchat",
-                "stars": 3634,
+                "stars": 3635,
                 "topics": [
                   "bot",
                   "discord",
@@ -504,7 +504,7 @@
             {
               "node_type": "item",
               "title": "Moleculer + Babel Example Starter",
-              "description": null,
+              "description": "tinchoz49/moleculer-babel-example",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2999,7 +2999,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T05:35:14.059Z",
+    "last_updated": "2026-10-03T04:55:34.543Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: A list of awesome things related to Moleculer microservices framework",
