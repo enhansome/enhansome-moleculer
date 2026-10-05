@@ -189,7 +189,7 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-02T15:27:53Z",
-                "open_issues": 129,
+                "open_issues": 128,
                 "owner": "msgbyte",
                 "repo": "tailchat",
                 "stars": 3636,
@@ -679,7 +679,7 @@
                 "open_issues": 3,
                 "owner": "moleculerjs",
                 "repo": "moleculer-template-project-typescript",
-                "stars": 135,
+                "stars": 134,
                 "topics": [
                   "moleculer",
                   "moleculer-template"
@@ -2879,7 +2879,7 @@
             "id": 700327601,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T23:01:16Z",
+            "last_commit": "2026-10-04T21:43:22Z",
             "open_issues": 7,
             "owner": "spailybot",
             "repo": "moleculer-auto-openapi",
@@ -2999,7 +2999,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T05:50:34.853Z",
+    "last_updated": "2026-10-05T05:37:43.470Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: A list of awesome things related to Moleculer microservices framework",
