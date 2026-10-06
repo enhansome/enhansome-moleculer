@@ -149,7 +149,7 @@
 * [moleculer-sc](https://github.com/tiaod/moleculer-sc#readme) ⭐ 20 | 🐛 0 | 🌐 JavaScript | 📅 2018-06-26  - API Gateway using [SocketCluster](https://socketcluster.io)
 * [hapi-moleculer](https://github.com/felipegcampos/hapi-moleculer) ⭐ 18 | 🐛 0 | 🌐 JavaScript | 📅 2018-08-21  - [Hapi](https://hapijs.com/) plugin for the Moleculer.
 * [moleculer-socketio](https://github.com/davidroman0O/moleculer-socketio) ⭐ 16 | 🐛 1 | 🌐 JavaScript | 📅 2018-04-30  - Manage Socket.IO events like actions in services
-* [moleculer-web-uws](https://github.com/jimmielovell/moleculer-web-uws) ⭐ 12 | 🐛 2 | 🌐 JavaScript | 📅 2021-09-11  - A fast API gateway based on [uWebSockets.js](https://github.com/uNetworking/uWebSockets.js) ⭐ 9,164 | 🐛 21 | 🌐 C++ | 📅 2026-10-03
+* [moleculer-web-uws](https://github.com/jimmielovell/moleculer-web-uws) ⭐ 12 | 🐛 2 | 🌐 JavaScript | 📅 2021-09-11  - A fast API gateway based on [uWebSockets.js](https://github.com/uNetworking/uWebSockets.js) ⭐ 9,165 | 🐛 21 | 🌐 C++ | 📅 2026-10-03
 
 ### Databases and Stores
 
@@ -205,7 +205,7 @@
 * [moleculer-stripe](https://github.com/YourSoftRun/moleculer-stripe) ⭐ 14 | 🐛 3 | 🌐 JavaScript | 📅 2026-01-22  - Service for [Stripe](https://stripe.com/)
 * [imicros-flow](https://github.com/al66/imicros-flow) ⭐ 13 | 🐛 3 | 🌐 JavaScript | 📅 2024-05-25  - Service for loose coupled event handling
 * [moleculer-sharp](https://github.com/designtesbrot/moleculer-sharp) ⭐ 12 | 🐛 11 | 🌐 JavaScript | 📅 2022-12-03  - A Moleculer Service for Image Manipulation using [sharp](http://sharp.pixelplumbing.com/en/stable/)
-* [moleculer-pdf](https://github.com/olivmonnier/moleculer-pdf) ⭐ 11 | 🐛 14 | 🌐 JavaScript | 📅 2023-01-05  - A [Puppeteer](https://github.com/GoogleChrome/puppeteer) ⭐ 95,659 | 🐛 278 | 🌐 TypeScript | 📅 2026-10-05-based Moleculer service that generates PDF from HTML.
+* [moleculer-pdf](https://github.com/olivmonnier/moleculer-pdf) ⭐ 11 | 🐛 14 | 🌐 JavaScript | 📅 2023-01-05  - A [Puppeteer](https://github.com/GoogleChrome/puppeteer) ⭐ 95,660 | 🐛 279 | 🌐 TypeScript | 📅 2026-10-06-based Moleculer service that generates PDF from HTML.
 * [moleculer-axios](https://github.com/adam-mccormick/moleculer-axios) ⭐ 9 | 🐛 17 | 🌐 JavaScript | 📅 2026-02-11  - Axios based HTTP client for Moleculer services
 * [node-red-contrib-moleculer](https://github.com/chameleonbr/node-red-contrib-moleculer#readme) ⭐ 9 | 🐛 1 | 🌐 HTML | 📅 2020-10-01  - Node Red client for Moleculer with events, emit, call, request and response support.
 * [moleculer-cls](https://github.com/cupsadarius/moleculer-cls) ⭐ 4 | 🐛 2 | 🌐 JavaScript | 📅 2026-04-02  - Hooked Continuation-Local Storage for Moleculer
@@ -253,7 +253,7 @@
 * [moleculer-bee-queue](https://github.com/moleculerjs/moleculer-addons/tree/master/packages/moleculer-bee-queue#readme) ⭐ 86 | 🐛 6 | 🌐 JavaScript | 📅 2025-02-05![Official Moleculer Module][official]  - Task queue mixin for [Bee-Queue](https://github.com/bee-queue/bee-queue) ⭐ 4,035 | 🐛 45 | 🌐 JavaScript | 📅 2026-10-06
 * [moleculer-bull](https://github.com/moleculerjs/moleculer-addons/tree/master/packages/moleculer-bull#readme) ⭐ 86 | 🐛 6 | 🌐 JavaScript | 📅 2025-02-05![Official Moleculer Module][official]  - Task queue mixin for [Bull](https://github.com/OptimalBits/bull) ⭐ 16,257 | 🐛 147 | 🌐 JavaScript | 📅 2026-10-03
 * [moleculer-cron](https://github.com/davidroman0O/moleculer-cron#readme) ⭐ 41 | 🐛 4 | 🌐 JavaScript | 📅 2024-07-19  - Moleculer mixin for [node-cron](https://github.com/kelektiv/node-cron) ⭐ 8,948 | 🐛 38 | 🌐 TypeScript | 📅 2026-10-06
-* [moleculer-bullmq](https://github.com/Hugome/moleculer-bullmq#readme) ⭐ 13 | 🐛 4 | 🌐 JavaScript | 📅 2022-12-28  - Task queue mixin for [BullMq](https://github.com/taskforcesh/bullmq) ⭐ 9,475 | 🐛 393 | 🌐 TypeScript | 📅 2026-10-06
+* [moleculer-bullmq](https://github.com/Hugome/moleculer-bullmq#readme) ⭐ 13 | 🐛 4 | 🌐 JavaScript | 📅 2022-12-28  - Task queue mixin for [BullMq](https://github.com/taskforcesh/bullmq) ⭐ 9,475 | 🐛 391 | 🌐 TypeScript | 📅 2026-10-06
 * [@r2d2bzh/moleculer-cron](https://github.com/r2d2bzh/moleculer-cron#readme) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2024-04-19  - Another moleculer mixin for [node-cron](https://github.com/kelektiv/node-cron) ⭐ 8,948 | 🐛 38 | 🌐 TypeScript | 📅 2026-10-06
 * [moleculer-faktory](https://github.com/YourSoftRun/moleculer-faktory#readme) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2022-12-30  - Task queue mixin for [Faktory](https://contribsys.com/faktory/)
 * [moleculer-amqp-queue](https://github.com/lehno/moleculer-amqp-queue#readme) ⭐ 4 | 🐛 12 | 🌐 JavaScript | 📅 2023-01-04  - Task queue mixin for [AMQP](https://www.amqp.org/)
