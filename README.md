@@ -101,7 +101,7 @@
 
 ### Repositories
 
-* [Tailchat](https://github.com/msgbyte/tailchat) ⭐ 3,638 | 🐛 129 | 🌐 TypeScript | 📅 2026-10-02  - A Open Source and pluggable IM application which build with MiniStart and Moleculer. Inspired by Discord.
+* [Tailchat](https://github.com/msgbyte/tailchat) ⭐ 3,637 | 🐛 129 | 🌐 TypeScript | 📅 2026-10-02  - A Open Source and pluggable IM application which build with MiniStart and Moleculer. Inspired by Discord.
 * [moleculerjs-boilerplate](https://github.com/pankod/moleculerjs-boilerplate) ⭐ 197 | 🐛 36 | 🌐 TypeScript | 📅 2023-01-05  - A well-structured Moleculer JS Boilerplate with Typescript, CLI, Service Helpers, Swagger, Jest support and everything you'll ever need to deploy rock solid projects.
 * [Conduit](https://github.com/moleculerjs/moleculer-examples/tree/master/conduit) ⭐ 160 | 🐛 0 | 🌐 HTML | 📅 2026-09-07  - Moleculer + Moleculer Web + Moleculer-DB + MongoDB + JWT + Redis Cacher + Docker
 * [Blog](https://github.com/moleculerjs/moleculer-examples/tree/master/blog) ⭐ 160 | 🐛 0 | 🌐 HTML | 📅 2026-09-07  - Moleculer + ExpressJS + Pug + Moleculer-DB + Mongoose + NATS + Redis Cacher + Traefik
@@ -149,7 +149,7 @@
 * [moleculer-sc](https://github.com/tiaod/moleculer-sc#readme) ⭐ 20 | 🐛 0 | 🌐 JavaScript | 📅 2018-06-26  - API Gateway using [SocketCluster](https://socketcluster.io)
 * [hapi-moleculer](https://github.com/felipegcampos/hapi-moleculer) ⭐ 18 | 🐛 0 | 🌐 JavaScript | 📅 2018-08-21  - [Hapi](https://hapijs.com/) plugin for the Moleculer.
 * [moleculer-socketio](https://github.com/davidroman0O/moleculer-socketio) ⭐ 16 | 🐛 1 | 🌐 JavaScript | 📅 2018-04-30  - Manage Socket.IO events like actions in services
-* [moleculer-web-uws](https://github.com/jimmielovell/moleculer-web-uws) ⭐ 12 | 🐛 2 | 🌐 JavaScript | 📅 2021-09-11  - A fast API gateway based on [uWebSockets.js](https://github.com/uNetworking/uWebSockets.js) ⭐ 9,166 | 🐛 22 | 🌐 C++ | 📅 2026-10-03
+* [moleculer-web-uws](https://github.com/jimmielovell/moleculer-web-uws) ⭐ 12 | 🐛 2 | 🌐 JavaScript | 📅 2021-09-11  - A fast API gateway based on [uWebSockets.js](https://github.com/uNetworking/uWebSockets.js) ⭐ 9,167 | 🐛 22 | 🌐 C++ | 📅 2026-10-08
 
 ### Databases and Stores
 
@@ -205,7 +205,7 @@
 * [moleculer-stripe](https://github.com/YourSoftRun/moleculer-stripe) ⭐ 14 | 🐛 3 | 🌐 JavaScript | 📅 2026-01-22  - Service for [Stripe](https://stripe.com/)
 * [imicros-flow](https://github.com/al66/imicros-flow) ⭐ 13 | 🐛 3 | 🌐 JavaScript | 📅 2024-05-25  - Service for loose coupled event handling
 * [moleculer-sharp](https://github.com/designtesbrot/moleculer-sharp) ⭐ 12 | 🐛 11 | 🌐 JavaScript | 📅 2022-12-03  - A Moleculer Service for Image Manipulation using [sharp](http://sharp.pixelplumbing.com/en/stable/)
-* [moleculer-pdf](https://github.com/olivmonnier/moleculer-pdf) ⭐ 11 | 🐛 14 | 🌐 JavaScript | 📅 2023-01-05  - A [Puppeteer](https://github.com/GoogleChrome/puppeteer) ⭐ 95,669 | 🐛 275 | 🌐 TypeScript | 📅 2026-10-07-based Moleculer service that generates PDF from HTML.
+* [moleculer-pdf](https://github.com/olivmonnier/moleculer-pdf) ⭐ 11 | 🐛 14 | 🌐 JavaScript | 📅 2023-01-05  - A [Puppeteer](https://github.com/GoogleChrome/puppeteer) ⭐ 95,670 | 🐛 267 | 🌐 TypeScript | 📅 2026-10-08-based Moleculer service that generates PDF from HTML.
 * [moleculer-axios](https://github.com/adam-mccormick/moleculer-axios) ⭐ 9 | 🐛 17 | 🌐 JavaScript | 📅 2026-02-11  - Axios based HTTP client for Moleculer services
 * [node-red-contrib-moleculer](https://github.com/chameleonbr/node-red-contrib-moleculer#readme) ⭐ 9 | 🐛 1 | 🌐 HTML | 📅 2020-10-01  - Node Red client for Moleculer with events, emit, call, request and response support.
 * [moleculer-cls](https://github.com/cupsadarius/moleculer-cls) ⭐ 4 | 🐛 2 | 🌐 JavaScript | 📅 2026-04-02  - Hooked Continuation-Local Storage for Moleculer
@@ -221,7 +221,7 @@
 
 ### General
 
-* [Health-check middleware](https://github.com/r2d2bzh/moleculer-healthcheck-middleware) ⭐ 6 | 🐛 3 | 🌐 JavaScript | 📅 2026-06-26  - Health-check middleware for Moleculer (for Kubernetes liveness readiness checks)
+* [Health-check middleware](https://github.com/r2d2bzh/moleculer-healthcheck-middleware) ⭐ 6 | 🐛 3 | 🌐 JavaScript | 📅 2026-10-08  - Health-check middleware for Moleculer (for Kubernetes liveness readiness checks)
 * [Inter-namespace](https://gist.github.com/icebob/c0bce54436379d29c1bee8521ceb5348)  - This middleware can connect to other namespaces.
 * [Saga middleware PoC](https://gist.github.com/icebob/c75d4d532c0d7783eb924a96110b9020)  - Proof of Concept of SAGA pattern.
 * [Tracing Moleculer methods](https://gist.github.com/intech/503facbc5320056d8f327070557fdf31)  - Tracing Moleculer methods with context support via `async_hooks`. (App speed degradation!)
@@ -250,21 +250,21 @@
 
 ### Tasks, Queues and Jobs
 
-* [moleculer-bee-queue](https://github.com/moleculerjs/moleculer-addons/tree/master/packages/moleculer-bee-queue#readme) ⭐ 86 | 🐛 6 | 🌐 JavaScript | 📅 2025-02-05![Official Moleculer Module][official]  - Task queue mixin for [Bee-Queue](https://github.com/bee-queue/bee-queue) ⭐ 4,035 | 🐛 43 | 🌐 JavaScript | 📅 2026-10-06
-* [moleculer-bull](https://github.com/moleculerjs/moleculer-addons/tree/master/packages/moleculer-bull#readme) ⭐ 86 | 🐛 6 | 🌐 JavaScript | 📅 2025-02-05![Official Moleculer Module][official]  - Task queue mixin for [Bull](https://github.com/OptimalBits/bull) ⭐ 16,255 | 🐛 147 | 🌐 JavaScript | 📅 2026-10-03
-* [moleculer-cron](https://github.com/davidroman0O/moleculer-cron#readme) ⭐ 41 | 🐛 4 | 🌐 JavaScript | 📅 2024-07-19  - Moleculer mixin for [node-cron](https://github.com/kelektiv/node-cron) ⭐ 8,949 | 🐛 39 | 🌐 TypeScript | 📅 2026-10-07
-* [moleculer-bullmq](https://github.com/Hugome/moleculer-bullmq#readme) ⭐ 13 | 🐛 4 | 🌐 JavaScript | 📅 2022-12-28  - Task queue mixin for [BullMq](https://github.com/taskforcesh/bullmq) ⭐ 9,488 | 🐛 388 | 🌐 TypeScript | 📅 2026-10-08
-* [@r2d2bzh/moleculer-cron](https://github.com/r2d2bzh/moleculer-cron#readme) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2024-04-19  - Another moleculer mixin for [node-cron](https://github.com/kelektiv/node-cron) ⭐ 8,949 | 🐛 39 | 🌐 TypeScript | 📅 2026-10-07
+* [moleculer-bee-queue](https://github.com/moleculerjs/moleculer-addons/tree/master/packages/moleculer-bee-queue#readme) ⭐ 86 | 🐛 6 | 🌐 JavaScript | 📅 2025-02-05![Official Moleculer Module][official]  - Task queue mixin for [Bee-Queue](https://github.com/bee-queue/bee-queue) ⭐ 4,035 | 🐛 43 | 🌐 JavaScript | 📅 2026-10-09
+* [moleculer-bull](https://github.com/moleculerjs/moleculer-addons/tree/master/packages/moleculer-bull#readme) ⭐ 86 | 🐛 6 | 🌐 JavaScript | 📅 2025-02-05![Official Moleculer Module][official]  - Task queue mixin for [Bull](https://github.com/OptimalBits/bull) ⭐ 16,254 | 🐛 147 | 🌐 JavaScript | 📅 2026-10-03
+* [moleculer-cron](https://github.com/davidroman0O/moleculer-cron#readme) ⭐ 41 | 🐛 4 | 🌐 JavaScript | 📅 2024-07-19  - Moleculer mixin for [node-cron](https://github.com/kelektiv/node-cron) ⭐ 8,949 | 🐛 39 | 🌐 TypeScript | 📅 2026-10-08
+* [moleculer-bullmq](https://github.com/Hugome/moleculer-bullmq#readme) ⭐ 13 | 🐛 4 | 🌐 JavaScript | 📅 2022-12-28  - Task queue mixin for [BullMq](https://github.com/taskforcesh/bullmq) ⭐ 9,490 | 🐛 388 | 🌐 TypeScript | 📅 2026-10-09
+* [@r2d2bzh/moleculer-cron](https://github.com/r2d2bzh/moleculer-cron#readme) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2024-04-19  - Another moleculer mixin for [node-cron](https://github.com/kelektiv/node-cron) ⭐ 8,949 | 🐛 39 | 🌐 TypeScript | 📅 2026-10-08
 * [moleculer-faktory](https://github.com/YourSoftRun/moleculer-faktory#readme) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2022-12-30  - Task queue mixin for [Faktory](https://contribsys.com/faktory/)
 * [moleculer-amqp-queue](https://github.com/lehno/moleculer-amqp-queue#readme) ⭐ 4 | 🐛 12 | 🌐 JavaScript | 📅 2023-01-04  - Task queue mixin for [AMQP](https://www.amqp.org/)
 
 ### Validation
 
-* [Joi](https://moleculer.services/docs/0.13/validating.html#Create-a-Joi-validator)![Official Moleculer Module][official]  - [Joi](https://github.com/hapijs/joi) ⭐ 21,164 | 🐛 203 | 🌐 JavaScript | 📅 2026-09-11 based validator
+* [Joi](https://moleculer.services/docs/0.13/validating.html#Create-a-Joi-validator)![Official Moleculer Module][official]  - [Joi](https://github.com/hapijs/joi) ⭐ 21,165 | 🐛 203 | 🌐 JavaScript | 📅 2026-09-11 based validator
 * [fastest-validator](https://moleculer.services/docs/0.13/validating.html#Built-in-validator)![Official Moleculer Module][official]  - Moleculer's default validator is based on [fastest-validator](https://github.com/icebob/fastest-validator) ⭐ 1,463 | 🐛 45 | 🌐 JavaScript | 📅 2026-08-20
 * [ts-transformer-json-schema](https://github.com/ipetrovic11/ts-transformer-json-schema) ⭐ 14 | 🐛 5 | 🌐 TypeScript | 📅 2020-03-29  - Use Typescript Intefraces as validator.
 * [moleculer-json-schema-validator](https://github.com/zhaoyao91/moleculer-json-schema-validator#readme) ⭐ 8 | 🐛 2 | 🌐 JavaScript | 📅 2019-10-30  - [JSON Schema](https://json-schema.org/) validator
-* [moleculer-zod-validator](https://github.com/TheAppleFreak/moleculer-zod-validator) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-22  - A validator that allows the use of [Zod](https://github.com/colinhacks/zod) ⭐ 44,072 | 🐛 89 | 🌐 TypeScript | 📅 2026-10-07 for type-safe validation and type inference.
+* [moleculer-zod-validator](https://github.com/TheAppleFreak/moleculer-zod-validator) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-22  - A validator that allows the use of [Zod](https://github.com/colinhacks/zod) ⭐ 44,078 | 🐛 89 | 🌐 TypeScript | 📅 2026-10-07 for type-safe validation and type inference.
 
 ### GraphQL
 
@@ -428,4 +428,4 @@ Copyright (c) 2016-2022 MoleculerJS
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._

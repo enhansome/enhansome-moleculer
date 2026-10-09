@@ -192,7 +192,7 @@
                 "open_issues": 129,
                 "owner": "msgbyte",
                 "repo": "tailchat",
-                "stars": 3638,
+                "stars": 3637,
                 "topics": [
                   "bot",
                   "discord",
@@ -2120,7 +2120,7 @@
                 "id": 267247045,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-06-26T09:36:33Z",
+                "last_commit": "2026-10-08T15:01:31Z",
                 "open_issues": 3,
                 "owner": "r2d2bzh",
                 "repo": "moleculer-healthcheck-middleware",
@@ -2445,7 +2445,7 @@
                 "open_issues": 203,
                 "owner": "hapijs",
                 "repo": "joi",
-                "stars": 21164,
+                "stars": 21165,
                 "topics": [
                   "hapi",
                   "javascript",
@@ -2976,7 +2976,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T06:01:51.321Z",
+    "last_updated": "2026-10-09T06:06:49.164Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: A list of awesome things related to Moleculer microservices framework",
