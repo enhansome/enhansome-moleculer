@@ -192,7 +192,7 @@
                 "open_issues": 129,
                 "owner": "msgbyte",
                 "repo": "tailchat",
-                "stars": 3639,
+                "stars": 3640,
                 "topics": [
                   "bot",
                   "discord",
@@ -323,7 +323,7 @@
                 "id": 194494832,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-12T12:20:08Z",
+                "last_commit": "2026-10-14T08:46:07Z",
                 "open_issues": 3,
                 "owner": "StretchShop",
                 "repo": "StretchShop",
@@ -2120,8 +2120,8 @@
                 "id": 267247045,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-10-08T15:01:31Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-14T09:00:12Z",
+                "open_issues": 0,
                 "owner": "r2d2bzh",
                 "repo": "moleculer-healthcheck-middleware",
                 "stars": 6,
@@ -2445,7 +2445,7 @@
                 "open_issues": 204,
                 "owner": "hapijs",
                 "repo": "joi",
-                "stars": 21164,
+                "stars": 21165,
                 "topics": [
                   "hapi",
                   "javascript",
@@ -2856,8 +2856,8 @@
             "id": 700327601,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-13T18:27:32Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-14T17:42:24Z",
+            "open_issues": 6,
             "owner": "spailybot",
             "repo": "moleculer-auto-openapi",
             "stars": 4,
@@ -2976,7 +2976,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T04:51:23.254Z",
+    "last_updated": "2026-10-15T04:36:17.690Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: A list of awesome things related to Moleculer microservices framework",
