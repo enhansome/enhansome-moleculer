@@ -192,7 +192,7 @@
                 "open_issues": 129,
                 "owner": "msgbyte",
                 "repo": "tailchat",
-                "stars": 3639,
+                "stars": 3640,
                 "topics": [
                   "bot",
                   "discord",
@@ -656,7 +656,7 @@
                 "open_issues": 3,
                 "owner": "moleculerjs",
                 "repo": "moleculer-template-project-typescript",
-                "stars": 133,
+                "stars": 134,
                 "topics": [
                   "moleculer",
                   "moleculer-template"
@@ -2445,7 +2445,7 @@
                 "open_issues": 204,
                 "owner": "hapijs",
                 "repo": "joi",
-                "stars": 21164,
+                "stars": 21165,
                 "topics": [
                   "hapi",
                   "javascript",
@@ -2471,7 +2471,7 @@
                 "open_issues": 45,
                 "owner": "icebob",
                 "repo": "fastest-validator",
-                "stars": 1463,
+                "stars": 1464,
                 "topics": [
                   "schema",
                   "schema-validation",
@@ -2856,8 +2856,8 @@
             "id": 700327601,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-17T22:25:00Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-20T21:16:46Z",
+            "open_issues": 8,
             "owner": "spailybot",
             "repo": "moleculer-auto-openapi",
             "stars": 4,
@@ -2976,7 +2976,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T04:48:24.401Z",
+    "last_updated": "2026-10-21T04:43:50.547Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: A list of awesome things related to Moleculer microservices framework",
