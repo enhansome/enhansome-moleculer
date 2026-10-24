@@ -2445,7 +2445,7 @@
                 "open_issues": 204,
                 "owner": "hapijs",
                 "repo": "joi",
-                "stars": 21164,
+                "stars": 21165,
                 "topics": [
                   "hapi",
                   "javascript",
@@ -2976,7 +2976,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T04:47:03.180Z",
+    "last_updated": "2026-10-24T04:34:25.681Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: A list of awesome things related to Moleculer microservices framework",
