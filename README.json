@@ -2240,7 +2240,7 @@
                 "open_issues": 208,
                 "owner": "louischatriot",
                 "repo": "nedb",
-                "stars": 13525,
+                "stars": 13526,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:08.587Z"
@@ -2445,7 +2445,7 @@
                 "open_issues": 204,
                 "owner": "hapijs",
                 "repo": "joi",
-                "stars": 21165,
+                "stars": 21166,
                 "topics": [
                   "hapi",
                   "javascript",
@@ -2976,7 +2976,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T04:34:25.681Z",
+    "last_updated": "2026-10-25T04:38:49.415Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: A list of awesome things related to Moleculer microservices framework",
