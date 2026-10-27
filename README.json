@@ -192,7 +192,7 @@
                 "open_issues": 129,
                 "owner": "msgbyte",
                 "repo": "tailchat",
-                "stars": 3640,
+                "stars": 3641,
                 "topics": [
                   "bot",
                   "discord",
@@ -2240,7 +2240,7 @@
                 "open_issues": 208,
                 "owner": "louischatriot",
                 "repo": "nedb",
-                "stars": 13527,
+                "stars": 13526,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:08.587Z"
@@ -2344,7 +2344,7 @@
                 "open_issues": 4,
                 "owner": "LuxChanLu",
                 "repo": "moleculer-bullmq",
-                "stars": 13,
+                "stars": 14,
                 "topics": [
                   "bullmq",
                   "javascript",
@@ -2541,7 +2541,7 @@
                 "id": 432599765,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-22T04:58:55Z",
+                "last_commit": "2026-10-27T00:10:47Z",
                 "open_issues": 0,
                 "owner": "TheAppleFreak",
                 "repo": "moleculer-zod-validator",
@@ -2976,7 +2976,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T04:44:24.579Z",
+    "last_updated": "2026-10-27T05:01:24.355Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: A list of awesome things related to Moleculer microservices framework",
