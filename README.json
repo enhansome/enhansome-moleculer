@@ -192,7 +192,7 @@
                 "open_issues": 129,
                 "owner": "msgbyte",
                 "repo": "tailchat",
-                "stars": 3642,
+                "stars": 3643,
                 "topics": [
                   "bot",
                   "discord",
@@ -323,11 +323,11 @@
                 "id": 194494832,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-17T11:43:51Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-29T18:01:14Z",
+                "open_issues": 3,
                 "owner": "StretchShop",
                 "repo": "StretchShop",
-                "stars": 76,
+                "stars": 77,
                 "topics": [
                   "ecommerce",
                   "ecommerce-shopping-solution",
@@ -416,7 +416,7 @@
                 "open_issues": 2,
                 "owner": "davidroman0O",
                 "repo": "moleculer-nextjs",
-                "stars": 11,
+                "stars": 12,
                 "topics": [
                   "moleculer",
                   "nextjs"
@@ -2240,7 +2240,7 @@
                 "open_issues": 208,
                 "owner": "louischatriot",
                 "repo": "nedb",
-                "stars": 13524,
+                "stars": 13525,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:08.587Z"
@@ -2320,7 +2320,7 @@
                 "open_issues": 4,
                 "owner": "davidroman0O",
                 "repo": "moleculer-cron",
-                "stars": 41,
+                "stars": 42,
                 "topics": [
                   "cron",
                   "moleculer"
@@ -2856,8 +2856,8 @@
             "id": 700327601,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-28T20:11:20Z",
-            "open_issues": 9,
+            "last_commit": "2026-10-29T22:53:11Z",
+            "open_issues": 10,
             "owner": "spailybot",
             "repo": "moleculer-auto-openapi",
             "stars": 4,
@@ -2976,7 +2976,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T05:45:48.386Z",
+    "last_updated": "2026-10-30T05:45:26.480Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: A list of awesome things related to Moleculer microservices framework",
@@ -2985,7 +2985,7 @@
       "language": "JavaScript",
       "license": "MIT",
       "last_commit": "2025-09-05T09:01:24Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "moleculerjs",
       "repo": "awesome-moleculer",
       "stars": 385,
