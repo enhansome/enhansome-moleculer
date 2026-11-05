@@ -192,7 +192,7 @@
                 "open_issues": 130,
                 "owner": "msgbyte",
                 "repo": "tailchat",
-                "stars": 3643,
+                "stars": 3644,
                 "topics": [
                   "bot",
                   "discord",
@@ -2240,7 +2240,7 @@
                 "open_issues": 208,
                 "owner": "louischatriot",
                 "repo": "nedb",
-                "stars": 13524,
+                "stars": 13523,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:08.587Z"
@@ -2441,8 +2441,8 @@
                 "id": 5830987,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-28T09:59:46Z",
-                "open_issues": 208,
+                "last_commit": "2026-11-04T15:02:14Z",
+                "open_issues": 210,
                 "owner": "hapijs",
                 "repo": "joi",
                 "stars": 21164,
@@ -2856,8 +2856,8 @@
             "id": 700327601,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-03T21:21:31Z",
-            "open_issues": 14,
+            "last_commit": "2026-11-04T23:08:11Z",
+            "open_issues": 16,
             "owner": "spailybot",
             "repo": "moleculer-auto-openapi",
             "stars": 4,
@@ -2976,7 +2976,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T06:17:22.785Z",
+    "last_updated": "2026-11-05T06:43:30.040Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: A list of awesome things related to Moleculer microservices framework",
