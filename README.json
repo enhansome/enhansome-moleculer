@@ -2240,7 +2240,7 @@
                 "open_issues": 208,
                 "owner": "louischatriot",
                 "repo": "nedb",
-                "stars": 13523,
+                "stars": 13524,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:08.587Z"
@@ -2626,7 +2626,7 @@
             "open_issues": 11,
             "owner": "moleculerjs",
             "repo": "moleculer-channels",
-            "stars": 85,
+            "stars": 84,
             "topics": [
               "event-driven",
               "hacktoberfest",
@@ -2856,7 +2856,7 @@
             "id": 700327601,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-04T23:08:11Z",
+            "last_commit": "2026-11-06T02:42:33Z",
             "open_issues": 16,
             "owner": "spailybot",
             "repo": "moleculer-auto-openapi",
@@ -2976,7 +2976,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T06:43:30.040Z",
+    "last_updated": "2026-11-06T06:40:23.885Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: A list of awesome things related to Moleculer microservices framework",
