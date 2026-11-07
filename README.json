@@ -1797,33 +1797,6 @@
             },
             {
               "node_type": "item",
-              "title": "moleculer-stripe",
-              "description": "Service for Stripe",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Stripe integration for moleculer",
-                "homepage": null,
-                "id": 198468967,
-                "language": "JavaScript",
-                "license": "MIT",
-                "last_commit": "2026-01-22T00:01:51Z",
-                "open_issues": 3,
-                "owner": "LuxChanLu",
-                "repo": "moleculer-stripe",
-                "stars": 14,
-                "topics": [
-                  "javascript",
-                  "moleculer",
-                  "moleculerjs",
-                  "stripe-api",
-                  "stripejs"
-                ]
-              },
-              "first_seen": "2026-08-28T11:22:08.587Z"
-            },
-            {
-              "node_type": "item",
               "title": "imicros-flow",
               "description": "Service for loose coupled event handling",
               "children": [],
@@ -1840,6 +1813,33 @@
                 "repo": "imicros-flow",
                 "stars": 13,
                 "topics": []
+              },
+              "first_seen": "2026-08-28T11:22:08.587Z"
+            },
+            {
+              "node_type": "item",
+              "title": "moleculer-stripe",
+              "description": "Service for Stripe",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Stripe integration for moleculer",
+                "homepage": null,
+                "id": 198468967,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2026-01-22T00:01:51Z",
+                "open_issues": 3,
+                "owner": "LuxChanLu",
+                "repo": "moleculer-stripe",
+                "stars": 13,
+                "topics": [
+                  "javascript",
+                  "moleculer",
+                  "moleculerjs",
+                  "stripe-api",
+                  "stripejs"
+                ]
               },
               "first_seen": "2026-08-28T11:22:08.587Z"
             },
@@ -2442,7 +2442,7 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-04T15:02:14Z",
-                "open_issues": 210,
+                "open_issues": 211,
                 "owner": "hapijs",
                 "repo": "joi",
                 "stars": 21164,
@@ -2976,7 +2976,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T06:40:23.885Z",
+    "last_updated": "2026-11-07T05:56:15.311Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: A list of awesome things related to Moleculer microservices framework",
