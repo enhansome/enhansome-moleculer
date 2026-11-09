@@ -2442,7 +2442,7 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-04T15:02:14Z",
-                "open_issues": 212,
+                "open_issues": 214,
                 "owner": "hapijs",
                 "repo": "joi",
                 "stars": 21164,
@@ -2976,7 +2976,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T05:58:16.851Z",
+    "last_updated": "2026-11-09T06:23:51.392Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: A list of awesome things related to Moleculer microservices framework",
