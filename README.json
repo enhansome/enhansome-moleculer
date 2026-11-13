@@ -2856,8 +2856,8 @@
             "id": 700327601,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-11T20:37:09Z",
-            "open_issues": 14,
+            "last_commit": "2026-11-13T04:10:13Z",
+            "open_issues": 10,
             "owner": "spailybot",
             "repo": "moleculer-auto-openapi",
             "stars": 4,
@@ -2932,7 +2932,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-11-24T20:38:29Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "alvaroinckot",
                 "repo": "pylecular",
                 "stars": 7,
@@ -2976,7 +2976,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T07:07:37.462Z",
+    "last_updated": "2026-11-13T06:42:18.007Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: A list of awesome things related to Moleculer microservices framework",
