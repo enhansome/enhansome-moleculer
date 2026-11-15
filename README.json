@@ -2445,7 +2445,7 @@
                 "open_issues": 213,
                 "owner": "hapijs",
                 "repo": "joi",
-                "stars": 21166,
+                "stars": 21168,
                 "topics": [
                   "hapi",
                   "javascript",
@@ -2557,27 +2557,6 @@
         },
         {
           "children": [
-            {
-              "node_type": "item",
-              "title": "moleculer-postgraphile",
-              "description": "Postgraphile Create postgraphile service for automatically detects tables, columns, indexes, relationships, views, types, functions, comments, and more.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "moleculer-postgraphile",
-                "homepage": null,
-                "id": 178359838,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2023-01-03T19:02:04Z",
-                "open_issues": 19,
-                "owner": "ltv",
-                "repo": "moleculer-postgraphile",
-                "stars": 5,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T11:22:08.587Z"
-            },
             {
               "node_type": "item",
               "title": "moleculer-db-graphql",
@@ -2856,8 +2835,8 @@
             "id": 700327601,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-13T16:21:02Z",
-            "open_issues": 9,
+            "last_commit": "2026-11-15T03:21:40Z",
+            "open_issues": 13,
             "owner": "spailybot",
             "repo": "moleculer-auto-openapi",
             "stars": 4,
@@ -2976,7 +2955,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T06:19:39.247Z",
+    "last_updated": "2026-11-15T06:27:15.487Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: A list of awesome things related to Moleculer microservices framework",
