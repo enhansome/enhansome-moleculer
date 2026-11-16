@@ -189,10 +189,10 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-02T15:27:53Z",
-                "open_issues": 130,
+                "open_issues": 131,
                 "owner": "msgbyte",
                 "repo": "tailchat",
-                "stars": 3648,
+                "stars": 3649,
                 "topics": [
                   "bot",
                   "discord",
@@ -2955,7 +2955,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T06:27:15.487Z",
+    "last_updated": "2026-11-16T06:25:10.066Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: A list of awesome things related to Moleculer microservices framework",
