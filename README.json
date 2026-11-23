@@ -2344,7 +2344,7 @@
                 "open_issues": 4,
                 "owner": "LuxChanLu",
                 "repo": "moleculer-bullmq",
-                "stars": 14,
+                "stars": 13,
                 "topics": [
                   "bullmq",
                   "javascript",
@@ -2955,7 +2955,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T06:44:44.262Z",
+    "last_updated": "2026-11-23T07:34:20.139Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: A list of awesome things related to Moleculer microservices framework",
