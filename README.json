@@ -188,11 +188,11 @@
                 "id": 377687390,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-20T15:54:40Z",
-                "open_issues": 132,
+                "last_commit": "2026-11-25T15:39:53Z",
+                "open_issues": 129,
                 "owner": "msgbyte",
                 "repo": "tailchat",
-                "stars": 3648,
+                "stars": 3649,
                 "topics": [
                   "bot",
                   "discord",
@@ -327,7 +327,7 @@
                 "open_issues": 1,
                 "owner": "StretchShop",
                 "repo": "StretchShop",
-                "stars": 77,
+                "stars": 76,
                 "topics": [
                   "ecommerce",
                   "ecommerce-shopping-solution",
@@ -2240,7 +2240,7 @@
                 "open_issues": 208,
                 "owner": "louischatriot",
                 "repo": "nedb",
-                "stars": 13525,
+                "stars": 13526,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:08.587Z"
@@ -2442,10 +2442,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-04T15:02:14Z",
-                "open_issues": 216,
+                "open_issues": 217,
                 "owner": "hapijs",
                 "repo": "joi",
-                "stars": 21167,
+                "stars": 21166,
                 "topics": [
                   "hapi",
                   "javascript",
@@ -2835,8 +2835,8 @@
             "id": 700327601,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-24T22:04:42Z",
-            "open_issues": 15,
+            "last_commit": "2026-11-26T07:17:22Z",
+            "open_issues": 16,
             "owner": "spailybot",
             "repo": "moleculer-auto-openapi",
             "stars": 4,
@@ -2893,7 +2893,7 @@
                 "open_issues": 3,
                 "owner": "CaioFilus",
                 "repo": "moleculer-client",
-                "stars": 8,
+                "stars": 9,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:08.587Z"
@@ -2955,7 +2955,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T08:30:06.657Z",
+    "last_updated": "2026-11-26T08:14:09.899Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: A list of awesome things related to Moleculer microservices framework",
