@@ -224,7 +224,7 @@
                 "open_issues": 36,
                 "owner": "pankod",
                 "repo": "moleculerjs-boilerplate",
-                "stars": 197,
+                "stars": 198,
                 "topics": [
                   "docker",
                   "jest",
@@ -715,7 +715,7 @@
               "description": "Project template for typescript including decorators and more",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": ":mortar_board: Common project template for Moleculer-based projects",
                 "homepage": "https://moleculer-template-project-ts.now.sh",
                 "id": 265503078,
@@ -2240,7 +2240,7 @@
                 "open_issues": 208,
                 "owner": "louischatriot",
                 "repo": "nedb",
-                "stars": 13526,
+                "stars": 13527,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:08.587Z"
@@ -2955,7 +2955,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T08:27:22.561Z",
+    "last_updated": "2026-11-28T07:44:56.007Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rocket: A list of awesome things related to Moleculer microservices framework",
